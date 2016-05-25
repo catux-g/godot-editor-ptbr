@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search Help"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search the reference documentation."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Go to previous edited document."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Go to next edited document."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Create Script"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid ""
+"The following files are newer on disk.\n"
+"What action should be taken?:"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Reload"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Resave"
+msgstr ""
+
+#: tools/editor/plugins/style_box_editor_plugin.cpp
+msgid "StyleBox Preview:"
+msgstr ""
+
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "Length:"
+msgstr ""
+
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "%d frames"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Scalar Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Toggle Rot Only"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Function"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Function"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Default Value"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change XForm Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Texture Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Cubemap Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Comment"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add/Remove to Color Ramp"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+#: tools/editor/plugins/color_ramp_editor_plugin.cpp
+msgid "Modify Color Ramp"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add/Remove to Curve Map"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Modify Curve Map"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Input Name"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Connect Graph Nodes"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Disconnect Graph Nodes"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Remove Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Move Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Duplicate Graph Node(s)"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Delete Shader Graph Node(s)"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Error: Cyclic Connection Link"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Error: Missing Input Connections"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Create UV Map"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Transform UV Map"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Polygon 2D UV Editor"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Move Point"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Ctrl: Rotate"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Shift: Move All"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Shift+Ctrl: Scale"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Move Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Rotate Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Scale Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Polygon->UV"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "UV->Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Clear UV"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Snap"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Enable Snap"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Grid"
+msgstr ""
+
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Set region_rect"
+msgstr ""
+
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Sprite Region Editor"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "ERROR: Couldn't load resource!"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Add Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Rename Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Delete Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Resource clipboard is empty!"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Load Resource"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "ERROR: Couldn't load frame resource!"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Frame"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Resource clipboard is empty or not a texture!"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Paste Frame"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Empty"
+msgstr ""

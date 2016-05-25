@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Keying is disabled (no key inserted)."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Animation Key Inserted."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Align with view"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top (Num7)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom (Shift+Num7)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left (Num3)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right (Shift+Num3)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front (Num1)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear (Shift+Num1)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective (Num5)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Orthogonal (Num5)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Environment"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Audio Listener"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Gizmos"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Selection (F)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Align with view (Ctrl+Shift+F)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "XForm Dialog"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "No scene selected to instance!"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Instance at Cursor"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Could not instance scene!"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale Mode (R)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Local Coords"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Dialog.."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Default Light"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Default sRGB"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Normal"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Wireframe"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Overdraw"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Shadeless"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Origin"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Grid"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Snap Settings"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Translate Snap:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate Snap (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale Snap (%):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Viewport Settings"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Default Light Normal:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Ambient Light Color:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective FOV (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Z-Near:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Z-Far:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Change"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Translate:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale (ratio):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Type"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Pre"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Post"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save All"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "History Prev"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "History Next"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Indent Left"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Indent Right"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Toggle Comment"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Clone Down"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Complete Symbol"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Trim Trailing Whitespace"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Auto Indent"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Goto Function.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Debug"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Toggle Breakpoint"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Keep Debugger Open"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Window"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Left"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Right"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Help"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Contextual"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Tutorials"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Open https://godotengine.org at tutorials section."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Classes"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search the class hierarchy."
+msgstr ""

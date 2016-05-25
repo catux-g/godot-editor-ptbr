@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+#: tools/editor/code_editor.cpp
+msgid "Skip"
+msgstr "Pular"
+
+#: tools/editor/code_editor.cpp tools/editor/script_editor_debugger.cpp
+msgid "Line:"
+msgstr "Linha:"
+
+#: tools/editor/code_editor.cpp
+msgid "Col:"
+msgstr "Coluna:"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Method in target Node must be specified!"
+msgstr "O método no Nó alvo precisa ser especificado!"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect To Node:"
+msgstr "Conectar ao Nó:"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Binds (Extra Params):"
+msgstr "Ligações (Parâmetros Extra):"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Add"
+msgstr "Adicionar"
+
+#: tools/editor/connections_dialog.cpp tools/editor/dependency_editor.cpp
+#: tools/editor/project_manager.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Remove"
+msgstr "Remover"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Path To Node:"
+msgstr "Caminho para o Nó:"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Method In Node:"
+msgstr "Método no Nó:"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Make Function"
+msgstr "Criar Função"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Deferred"
+msgstr "Postergado"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Oneshot"
+msgstr "Uma vez"
+
+#: tools/editor/connections_dialog.cpp tools/editor/settings_config_dialog.cpp
+#: tools/editor/import_settings.cpp tools/editor/run_settings_dialog.cpp
+#: tools/editor/project_settings.cpp tools/editor/groups_editor.cpp
+#: tools/editor/property_editor.cpp tools/editor/addon_editor_plugin.cpp
+#: tools/editor/call_dialog.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Close"
+msgstr "Fechar"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect"
+msgstr "Conectar"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect '%s' to '%s'"
+msgstr "Conectar '%s' a '%s'"
+
+#: tools/editor/connections_dialog.cpp tools/editor/animation_editor.cpp
+#: tools/editor/project_manager.cpp tools/editor/create_dialog.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/particles_editor_plugin.cpp
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Subscription"
+msgstr "Criar Conexão"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect.."
+msgstr "Conectar..."
+
+#: tools/editor/connections_dialog.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Disconnect"
+msgstr "Disconectar"
+
+#: tools/editor/connections_dialog.cpp
+msgid "Edit Connections.."
+msgstr "Editar Conexões..."
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connections:"
+msgstr "Conexões:"
+
+#: tools/editor/editor_sub_scene.cpp
+msgid "Select Node(s) to Import"
+msgstr "Selecionar Nó(s) para Importar"
+
+#: tools/editor/editor_sub_scene.cpp
+msgid "Scene Path:"
+msgstr "Caminho da Cena:"
+
+#: tools/editor/editor_sub_scene.cpp tools/editor/editor_node.cpp
+#: tools/editor/project_manager.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Import From Node:"
+msgstr "Importar a Partir do Nó:"
+
+#: tools/editor/settings_config_dialog.cpp tools/editor/editor_node.cpp
+msgid "Editor Settings"
+msgstr "Configurações do Editor"
+
+#: tools/editor/settings_config_dialog.cpp tools/editor/project_settings.cpp
+msgid "General"
+msgstr "Geral"
+
+#: tools/editor/settings_config_dialog.cpp tools/editor/quick_open.cpp
+#: tools/editor/addon_editor_plugin.cpp tools/editor/editor_node.cpp
+#: tools/editor/editor_help.cpp tools/editor/create_dialog.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search:"
+msgstr "Pesquisar:"
+
+#: tools/editor/settings_config_dialog.cpp tools/editor/project_settings.cpp
+#: tools/editor/addon_editor_plugin.cpp
+msgid "Plugins"
+msgstr "Plugins"
+
+#: tools/editor/settings_config_dialog.cpp
+msgid "Plugin List:"
+msgstr "Lista de Plugins:"
+
+#: tools/editor/editor_dir_dialog.cpp
+msgid "Choose a Directory"
+msgstr "Escolha um Diretório"
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_file_dialog.cpp
+msgid "Create Folder"
+msgstr "Criar Pasta"
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_plugin_settings.cpp
+#: tools/editor/editor_file_dialog.cpp tools/editor/project_manager.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Name:"
+msgstr "Nome:"
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_file_dialog.cpp
+msgid "Could not create folder."
+msgstr "Não foi possível criar a pasta."
+
+#: tools/editor/editor_dir_dialog.cpp
+msgid "Choose"
+msgstr "Escolher"
+
+#: tools/editor/editor_file_system.cpp
+msgid "Cannot go into subdir:"
+msgstr "Não é possível ir ao subdiretório:"
+
+#: tools/editor/editor_file_system.cpp
+msgid "ScanSources"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Search Replacement For:"
+msgstr "Buscar Substituição Para:"
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies For:"
+msgstr "Dependências Para:"
+
+#: tools/editor/dependency_editor.cpp
+msgid ""
+"Scene '%s' is currently being edited.\n"
+"Changes will not take effect unless reloaded."
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid ""
+"Resource '%s' is in use.\n"
+"Changes will take effect when reloaded."
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Fix Broken"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependency Editor"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Search Replacement Resource:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Owners Of:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Remove selected files from the project? (no undo)"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Error loading:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Scene failed to load due to missing dependencies:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp tools/editor/scenes_dock.cpp
+#: tools/editor/editor_file_dialog.cpp tools/editor/editor_node.cpp
+#: tools/editor/editor_help.cpp tools/editor/plugins/script_editor_plugin.cpp
+msgid "Open Anyway"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Which action should be taken?"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Fix Dependencies"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Errors loading!"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Permanently delete %d item(s)? (No undo!)"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Owns"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Resources Without Explicit Ownership:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp tools/editor/editor_node.cpp
+msgid "Orphan Resource Explorer"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Delete selected files?"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Delete"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Light Radius"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Camera FOV"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Camera Size"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Sphere Shape Radius"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Box Shape Extents"
+msgstr ""

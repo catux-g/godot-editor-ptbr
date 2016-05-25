@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Trimesh Collision Sibling"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Convex Collision Sibling"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Outline Mesh.."
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Outline Mesh"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Outline Size:"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Could not find tile:"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Item name or ID:"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Create from scene?"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Merge from scene?"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Create from Scene"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Merge from Scene"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Remove Point from Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move Point in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move In-Control in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move Out-Control in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Select Control Points (Shift+Drag)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Uncompressed"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress Lossless (PNG)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress Lossy (WebP)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress (VRAM)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Format"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Compression Quality (WebP):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Options"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid ""
+"NOTICE: You are not forced to import textures for 2D projects. Just copy "
+"your .jpg or .png files to your project, and change export options later. "
+"Atlases can be generated on export too."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Please specify some files!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Target path is empty."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Target path must be a complete resource path."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Target path must exist."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "At least one file needed for Atlas."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Error importing:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Only one file is required for large texture."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Source Texture:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Source Texture(s):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Crop empty space."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Target Path:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Max Texture Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Cell Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Large Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Base Atlas Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Accept"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for Atlas (2D)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Large Textures (2D)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for 2D"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for 3D"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Large Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Load Source Image"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Slicing"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Inserting"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Saving"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save large texture:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Build Atlas For:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Loading Image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't load image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Converting Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Cropping Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Blitting Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save atlas image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save converted texture:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Invalid source!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Invalid translation source!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Column"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "No items to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "No target path!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Translations"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Couldn't import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Translation"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Source CSV:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Ignore First Row"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Compress"
+msgstr ""

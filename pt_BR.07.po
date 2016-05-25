@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/project_settings.cpp
+msgid "List:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Name"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Singleton"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid ""
+"This item cannot be made visible because the parent is hidden. Unhide the "
+"parent first."
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Toggle Spatial Visible"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Toggle CanvasItem Visible"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Instance:"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Invalid node name, the following characters are not allowed:"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Rename Node"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Scene Tree (Nodes):"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Editable Children"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Load As Placeholder"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Open in Editor"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear Inheritance"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear Inheritance? (No Undo!)"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear!"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Select a Node"
+msgstr ""
+
+#: tools/editor/quick_open.cpp tools/editor/editor_help.cpp
+#: tools/editor/create_dialog.cpp tools/editor/plugins/script_editor_plugin.cpp
+msgid "Matches:"
+msgstr ""
+
+#: tools/editor/quick_open.cpp
+msgid "Open"
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Please wait for scan to complete."
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Current scene must be saved to re-import."
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save & Re-Import"
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Re-Importing"
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Re-Import Changed Resources"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Error saving resource!"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Create New Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Open Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Save Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Save Resource As.."
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Resource Tools"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Make Local"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Write your logic in the _run() method."
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "There is an edited scene already."
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Couldn't instance script:"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Did you forget the 'tool' keyword?"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Couldn't run script:"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Did you forget the '_run' method?"
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Updating Scene"
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Storing local changes.."
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Updating scene.."
+msgstr ""
+
+#: tools/editor/file_type_cache.cpp
+msgid "Can't open file_type_cache.cch for writing, not saving file type cache!"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp tools/editor/scene_tree_dock.cpp
+msgid "Reparent Node"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp
+msgid "Reparent Location (Select new Parent):"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp
+msgid "Keep Global Transform"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp
+msgid "Reparent"
+msgstr ""
+
+#: tools/editor/editor_plugin_settings.cpp tools/editor/editor_node.cpp
+msgid "Update"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp tools/editor/editor_file_dialog.cpp
+msgid "Favorites:"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Same source and destination files, doing nothing."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Same source and destination paths, doing nothing."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Can't move directories to within themselves."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Can't operate on '..'"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Pick New Name and Location For:"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "No files selected!"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Instance"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Edit Dependencies.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Owners.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Rename or Move.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move To.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Show In File Manager"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Previous Directory"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Next Directory"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Re-Scan Filesystem"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move Favorite Up"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move Favorite Down"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Toggle folder status as Favorite"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Instance the selected scene(s) as child of the selected node."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Added:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Removed:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Could not save atlas subtexture:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Storing File:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Packing"
+msgstr ""

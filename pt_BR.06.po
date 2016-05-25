@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Main Scene"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Main Scene Arguments:"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Scene Run Settings"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid action (anything goes but '/' or ':')."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Action '%s' already exists!"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Rename Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Meta+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Shift+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Alt+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Control+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Press a Key.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Mouse Button Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Left Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Right Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Middle Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Up Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Down Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 6"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 7"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 8"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 9"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joystick Axis Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Axis"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joystick Button Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Input Action"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Erase Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Device"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Left Button."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Right Button."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Middle Button."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Up."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Down."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Toggle Persisting"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Error saving settings."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Settings saved OK."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Translation"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Toggle AutoLoad Globals"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Valid characters:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing engine class name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing buit-in type name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing global constant name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Move Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Translation"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Remapped Path"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Resource Remap Add Remap"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Change Resource Remap Language"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Resource Remap"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Resource Remap Option"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Enable"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Project Settings (engine.cfg)"
+msgstr ""
+
+#: tools/editor/project_settings.cpp tools/editor/addon_editor_plugin.cpp
+msgid "Category:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp tools/editor/property_editor.cpp
+msgid "Property:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Del"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Copy To Platform.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Input Map"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Action:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Device:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Localization"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Translations"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Translations:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remaps"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Resources:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remaps by Locale:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Locale"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "AutoLoad"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Node Name:"
+msgstr ""

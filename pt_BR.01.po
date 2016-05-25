@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: scene/audio/sample_player.cpp scene/2d/sample_player_2d.cpp
+msgid ""
+"A SampleLibrary resource must be created or set in the 'samples' property in "
+"order for SamplePlayer to play sound."
+msgstr ""
+"Um recurso do tipo SampleLibrary deve ser criado ou definido na propriedade "
+"'samples' para que o SamplePlayer possa tocar algum som."
+
+#: scene/3d/body_shape.cpp
+msgid ""
+"CollisionShape only serves to provide a collision shape to a CollisionObject "
+"derived node. Please only use it as a child of Area, StaticBody, RigidBody, "
+"KinematicBody, etc. to give them a shape."
+msgstr ""
+"CollisionShape apenas server para fornecer formas de colisão a um nó "
+"derivado de CollisionObject. Por favor, use-o apenas como filho de Area, "
+"StaticBody, RigidBody, KinematicBody, etc. para dá-los forma."
+
+#: scene/3d/body_shape.cpp
+msgid ""
+"A shape must be provided for CollisionShape to function. Please create a "
+"shape resource for it!"
+msgstr ""
+"Uma forma dever ser fornecida para que o nó CollisionShape fucione. Por "
+"favor, crie um recurso de forma a ele!"
+
+#: scene/3d/collision_polygon.cpp
+msgid ""
+"CollisionPolygon only serves to provide a collision shape to a "
+"CollisionObject derived node. Please only use it as a child of Area, "
+"StaticBody, RigidBody, KinematicBody, etc. to give them a shape."
+msgstr ""
+"CollisionPolygon apenas server para fornecer formas de colisão a um nó "
+"derivado de CollisionObject. Por favor, use-o apenas como filho de Area, "
+"StaticBody, RigidBody, KinematicBody, etc. para dá-los forma."
+
+#: scene/3d/collision_polygon.cpp
+msgid "An empty CollisionPolygon has no effect on collision."
+msgstr "Um nó CollisionPolygon vazio não é efetivo na colisão."
+
+#: scene/3d/scenario_fx.cpp
+msgid ""
+"Only one WorldEnvironment is allowed per scene (or set of instanced scenes)."
+msgstr ""
+"É permitido apenas um nó WorldEnvironment por cena (ou conjunto de cenas "
+"instanciadas)."
+
+#: scene/3d/spatial_sample_player.cpp
+msgid ""
+"A SampleLibrary resource must be created or set in the 'samples' property in "
+"order for SpatialSamplePlayer to play sound."
+msgstr ""
+"Um recurso do tipo SampleLibrary deve ser criado ou definido na propriedade "
+"'samples' para que o SpatialSamplePlayer possa tocar algum som."
+
+#: scene/3d/navigation_mesh.cpp
+msgid "A NavigationMesh resource must be set or created for this node to work."
+msgstr ""
+
+#: scene/3d/navigation_mesh.cpp
+msgid ""
+"NavigationMeshInstance must be a child or grandchild to a Navigation node. "
+"It only provides navigation data."
+msgstr ""
+
+#: scene/2d/particles_2d.cpp
+msgid "Path property must point to a valid Particles2D node to work."
+msgstr ""
+
+#: scene/2d/parallax_layer.cpp
+msgid ""
+"ParallaxLayer node only works when set as child of a ParallaxBackground node."
+msgstr ""
+
+#: scene/2d/visibility_notifier_2d.cpp
+msgid ""
+"VisibilityEnable2D works best when used with the edited scene root directly "
+"as parent."
+msgstr ""
+
+#: scene/2d/light_occluder_2d.cpp
+msgid ""
+"An occluder polygon must be set (or drawn) for this occluder to take effect."
+msgstr ""
+
+#: scene/2d/light_occluder_2d.cpp
+msgid "The occluder polygon for this occluder is empty. Please draw a polygon!"
+msgstr ""
+
+#: scene/2d/navigation_polygon.cpp
+msgid ""
+"A NavigationPolygon resource must be set or created for this node to work. "
+"Please set a property or draw a polygon."
+msgstr ""
+
+#: scene/2d/navigation_polygon.cpp
+msgid ""
+"NavigationPolygonInstance must be a child or grandchild to a Navigation2D "
+"node. It only provides navigation data."
+msgstr ""
+
+#: scene/2d/sprite.cpp
+msgid ""
+"Path property must point to a valid Viewport node to work. Such Viewport "
+"must be set to 'render target' mode."
+msgstr ""
+
+#: scene/2d/sprite.cpp
+msgid ""
+"The Viewport set in the path property must be set as 'render target' in "
+"order for this sprite to work."
+msgstr ""
+
+#: scene/2d/collision_polygon_2d.cpp
+msgid ""
+"CollisionPolygon2D only serves to provide a collision shape to a "
+"CollisionObject2D derived node. Please only use it as a child of Area2D, "
+"StaticBody2D, RigidBody2D, KinematicBody2D, etc. to give them a shape."
+msgstr ""
+
+#: scene/2d/collision_polygon_2d.cpp
+msgid "An empty CollisionPolygon2D has no effect on collision."
+msgstr ""
+
+#: scene/2d/path_2d.cpp
+msgid "PathFollow2D only works when set as a child of a Path2D node."
+msgstr ""
+
+#: scene/2d/canvas_modulate.cpp
+msgid ""
+"Only one visible CanvasModulate is allowed per scene (or set of instanced "
+"scenes). The first created one will work, while the rest will be ignored."
+msgstr ""
+
+#: scene/2d/animated_sprite.cpp
+msgid ""
+"A SpriteFrames resource must be created or set in the 'Frames' property in "
+"order for AnimatedSprite to display frames."
+msgstr ""
+
+#: scene/2d/remote_transform_2d.cpp
+msgid "Path property must point to a valid Node2D node to work."
+msgstr ""
+
+#: scene/2d/collision_shape_2d.cpp
+msgid ""
+"CollisionShape2D only serves to provide a collision shape to a "
+"CollisionObject2D derived node. Please only use it as a child of Area2D, "
+"StaticBody2D, RigidBody2D, KinematicBody2D, etc. to give them a shape."
+msgstr ""
+
+#: scene/2d/collision_shape_2d.cpp
+msgid ""
+"A shape must be provided for CollisionShape2D to function. Please create a "
+"shape resource for it!"
+msgstr ""
+
+#: scene/2d/light_2d.cpp
+msgid ""
+"A texture with the shape of the light must be supplied to the 'texture' "
+"property."
+msgstr ""
+
+#: scene/gui/popup.cpp
+msgid ""
+"Popups will hide by default unless you call popup() or any of the popup*() "
+"functions. Making them visible for editing is fine though, but they will "
+"hide upon running."
+msgstr ""
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Cut"
+msgstr "Recortar"
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp
+#: tools/editor/resources_dock.cpp tools/editor/property_editor.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Copy"
+msgstr "Copiar"
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp
+#: tools/editor/resources_dock.cpp tools/editor/property_editor.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Paste"
+msgstr "Colar"
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp
+#: tools/editor/project_export.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Select All"
+msgstr "Selecionar Tudo"
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp
+#: tools/editor/script_editor_debugger.cpp tools/editor/editor_log.cpp
+#: tools/editor/property_editor.cpp
+#: tools/editor/plugins/rich_text_editor_plugin.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Clear"
+msgstr "Limpar"
+
+#: scene/gui/text_edit.cpp scene/gui/line_edit.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Undo"
+msgstr "Desfazer"
+
+#: scene/main/viewport.cpp
+msgid ""
+"This viewport is not set as render target. If you intend for it to display "
+"its contents directly to the screen, make it a child of a Control so it can "
+"obtain a size. Otherwise, make it a RenderTarget and assign its internal "
+"texture to some node for display."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Edit Script Options"
+msgstr "Editar Opções de Script"
+
+#: tools/editor/project_export.cpp
+msgid "Please export outside the project folder!"
+msgstr "Por favor export para fora da pasta do projeto!"
+
+#: tools/editor/project_export.cpp
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Error exporting project!"
+msgstr "Erro ao exportar o projeto!"
+
+#: tools/editor/project_export.cpp
+msgid "Error writing the project PCK!"
+msgstr "Erro ao escrever o PCK do projeto!"
+
+#: tools/editor/project_export.cpp
+msgid "No exporter for platform '%s' yet."
+msgstr "Ainda não há exportador para a plataforma %s."
+
+#: tools/editor/project_export.cpp
+msgid "Include"
+msgstr "Incluir"
+
+#: tools/editor/project_export.cpp
+msgid "Change Image Group"
+msgstr "Alterar Grupo de Imagens"
+
+#: tools/editor/project_export.cpp tools/editor/groups_editor.cpp
+msgid "Group name can't be empty!"
+msgstr "O nome do grupo não pode estar vazio!"
+
+#: tools/editor/project_export.cpp
+msgid "Invalid character in group name!"
+msgstr "Caractere inválido no nome do grupo!"
+
+#: tools/editor/project_export.cpp
+msgid "Group name already exists!"
+msgstr "O nome do grupo já existe!"
+
+#: tools/editor/project_export.cpp tools/editor/project_settings.cpp
+#: tools/editor/groups_editor.cpp tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Add Image Group"
+msgstr "Adicionar Grupo de Imagens"
+
+#: tools/editor/project_export.cpp tools/editor/scenes_dock.cpp
+#: tools/editor/editor_node.cpp
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Delete Image Group"
+msgstr "Excluir Imagem do Grupo"
+
+#: tools/editor/project_export.cpp tools/editor/editor_import_export.cpp
+msgid "Error saving atlas:"
+msgstr "Erro ao salvar atlas:"
+
+#: tools/editor/project_export.cpp
+msgid "Atlas Preview"
+msgstr "Visualização do Atlas"

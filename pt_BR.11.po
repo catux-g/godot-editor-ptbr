@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Delete Node(s)?"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation can't be done without a scene."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation requires a single selected node."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation can't be done on instanced scenes."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Save New Scene As.."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Makes Sense!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Can't operate on nodes from a foreign scene!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Can't operate on nodes the current scene inherits from!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Remove Node(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Create Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid ""
+"Couldn't save new scene. Likely dependencies (instances) couldn't be "
+"satisfied."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error saving scene."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error duplicating scene to save it."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "New Scene Root"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Inherit Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add Child Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Instance Child Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Change Type"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Edit Groups"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Edit Connections"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add Script"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Up"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Down"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Duplicate"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Save Branch as Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Delete Node(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add/Create a New Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid ""
+"Instance a scene file as a Node. Creates an inherited scene if no root node "
+"exists."
+msgstr ""
+
+#: tools/editor/create_dialog.cpp
+msgid "Create New"
+msgstr ""
+
+#: tools/editor/plugins/rich_text_editor_plugin.cpp
+msgid "Parse BBCode"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Open Sample File(s)"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "ERROR: Couldn't load sample!"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Add Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Stop"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Play"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Rename Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Delete Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "16 Bits"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "8 Bits"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "Stereo"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "Mono"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Preview"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Pitch"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Create Poly3D"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Edit Poly"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Edit Poly (Remove Point)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Toggle Autoplay"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "New Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "New Anim"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Change Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Remove Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: Invalid animation name!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: Animation name already exists!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Rename Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Blend Next Changed"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Change Blend Time"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Load Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Duplicate Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation to copy!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation resource on clipboard!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Pasted Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Paste Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation to edit!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation backwards from current pos. (A)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation backwards from end. (Shift+A)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Stop animation playback. (S)"
+msgstr ""

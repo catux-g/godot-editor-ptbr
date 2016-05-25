@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: George Marques <george@gmarqu.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Change Animation Loop"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Change Animation FPS"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "(empty)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Animations"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Speed (FPS):"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Loop"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Animation Frames"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Insert Empty (Before)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Insert Empty (After)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Up"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Down"
+msgstr ""
+
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Create Navigation Polygon"
+msgstr ""
+
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Remove Poly And Point"
+msgstr ""
+
+#: tools/editor/plugins/collision_shape_2d_editor_plugin.cpp
+msgid "Set Handle"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Error loading image:"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "No pixels with transparency > 128 in image.."
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Set Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Clear Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Load Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Generated Point Count:"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Creating Mesh Library"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Thumbnail.."
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Remove item %d?"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import Scene"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Remove Selected Item"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Import from Scene"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Update from Scene"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Node does not contain geometry."
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Node does not contain geometry (faces)."
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Faces contain no area!"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "No faces!"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Generate AABB"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter From Mesh"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter From Node"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Clear Emitter"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Emission Positions:"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Emission Fill:"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Surface"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Volume"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Item %d"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Items"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Item List Editor"
+msgstr ""
+
+#: tools/editor/plugins/color_ramp_editor_plugin.cpp
+msgid "Add/Remove Color Ramp Point"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Curve Point #"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve Point Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve In Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve Out Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Split Path"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Add Point to Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Remove Path Point"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Select Points"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Shift+Drag: Select Control Points"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Click: Add Point"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Right Click: Delete Point"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Add Point (in empty space)"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Split Segment (in curve)"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Delete Point"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Close Curve"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Mesh is empty!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Static Trimesh Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Static Convex Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "This doesn't work on scene root!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Trimesh Shape"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Convex Shape"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Navigation Mesh"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "MeshInstance lacks a Mesh!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Could not create outline!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Outline"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Trimesh Static Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_editor_plugin.cpp
+msgid "Create Convex Static Body"
+msgstr ""

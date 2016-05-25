@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Insert"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Scale Keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Add Call Track"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Animation zoom."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Length (s):"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Animation length (in seconds)."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Step (s):"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Cursor step snap (in seconds)."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Enable/Disable looping in animation."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Add new tracks."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move current track up."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move current track down."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove selected track."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Track tools"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Enable editing of individual keys by clicking them."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim. Optimizer"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max. Linear Error:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max. Angular Error:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max Optimizable Angle:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Optimize"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Transition"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Scale Ratio:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Call Functions in Which Node?"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove invalid keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove unresolved and empty tracks"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-up all animations"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-Up Animation(s) (NO UNDO!)"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-Up"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Bytes:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp tools/editor/project_settings.cpp
+#: tools/editor/scene_tree_editor.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Type:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Warning"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Error"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp tools/editor/editor_help.cpp
+msgid "Description:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Time:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Error:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Source:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Function:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Errors"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Debugger"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Child Process Connected"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp tools/editor/editor_file_dialog.cpp
+msgid "File:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Step Into"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Step Over"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Break"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Continue"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Inspect Previous Instance"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Inspect Next Instance"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Stack Frames"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Variable"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Errors:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Stack Trace (if applicable):"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Monitor"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Value"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "List of Video Memory Usage by Resource:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Total:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Video Mem"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Resource Path"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Type"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Format"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Usage"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp tools/editor/scenes_dock.cpp
+msgid "Info"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Clicked Control:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Clicked Control Type:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Live Edit Root:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Set From Tree"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Scene Tree:"
+msgstr ""
+
+#: tools/editor/import_settings.cpp
+msgid "Imported Resources"
+msgstr ""
+
+#: tools/editor/import_settings.cpp tools/editor/editor_reimport_dialog.cpp
+#: tools/editor/editor_node.cpp
+msgid "Re-Import"
+msgstr ""
+
+#: tools/editor/multi_node_edit.cpp
+msgid "MultiNode Set"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Run Mode:"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Current Scene"
+msgstr ""

@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "X-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Y-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Z-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh Up Axis:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Rotation:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Tilt:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Scale:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Find.."
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Find Next"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Replace.."
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Goto Line.."
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Vertex"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Fragment"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Lighting"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Can't save theme to file:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Add Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add All Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add All"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Remove Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add Class Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Remove Class Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Create Template"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "CheckBox Radio1"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "CheckBox Radio2"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Check Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Checked Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Has"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Many"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Have,Many,Several,Options!"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 1"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 2"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 3"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Data Type:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Icon"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Style"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Font"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Color"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "BakedLightInstance does not contain a BakedLight resource."
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "Bake!"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "Reset the lightmap octree baking process (start over)."
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Parsing %d Triangles:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Triangle #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Light Baker Setup:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Parsing Geometry"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Fixing Lights"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Making BVH"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Creating Light Octree"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Creating Octree Texture"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Transfer to Lightmaps:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Allocating Texture #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Baking Triangle #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Post-Processing Texture #"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Orthogonal"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Aborted."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Plane Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "X-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Y-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Z-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scaling to %s%%."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotating %s degrees."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left View."
+msgstr ""

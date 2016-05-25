@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Anchor"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Keys (Ins)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Key"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Key (Existing Tracks)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Copy Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Set a Value"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Snap (Pixels):"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Paint TileMap"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Erase TileMap"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Bucket"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Pick Tile"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Select"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Erase Selection"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Transpose"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Mirror X (A)"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Mirror Y (S)"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 0 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 90 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 180 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 270 degrees"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "New name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Scale:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Fade In (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Fade Out (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Mix"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Auto Restart:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Restart (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Random Restart (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Start!"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Amount:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend 0:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend 1:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "X-Fade Time (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Current:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Add Input"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Clear Auto-Advance"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Set Auto-Advance"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Delete Input"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Rename"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation tree is valid."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation tree is invalid."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "OneShot Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Mix Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend2 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend3 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend4 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "TimeScale Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "TimeSeek Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Transition Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Import Animations.."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Edit Node Filters"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Filters.."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No mesh source specified (and no MultiMesh set in node)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No mesh source specified (and MultiMesh contains no Mesh)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (invalid path)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (not a MeshInstance)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (contains no Mesh resource)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No surface source specified."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (invalid path)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (no geometry)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (no faces)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Parent has no solid faces to populate."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Couldn't map area."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Select a Source Mesh:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Select a Target Surface:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate Surface"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate MultiMesh"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Target Surface:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Source Mesh:"
+msgstr ""

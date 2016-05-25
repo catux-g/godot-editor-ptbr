@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+#: tools/editor/project_export.cpp
+msgid "Project Export Settings"
+msgstr "Configurações de Exportação de Projeto"
+
+#: tools/editor/project_export.cpp
+msgid "Target"
+msgstr "Alvo"
+
+#: tools/editor/project_export.cpp tools/editor/editor_node.cpp
+msgid "Export to Platform"
+msgstr "Exportar para Plataforma"
+
+#: tools/editor/project_export.cpp tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Options"
+msgstr "Opções"
+
+#: tools/editor/project_export.cpp
+msgid "Resources"
+msgstr "Recursos"
+
+#: tools/editor/project_export.cpp
+msgid "Export selected resources (including dependencies)."
+msgstr "Exportar recursos selecionados (incluindo dependências)."
+
+#: tools/editor/project_export.cpp
+msgid "Export all resources in the project."
+msgstr "Exportar todos os recursos no projeto."
+
+#: tools/editor/project_export.cpp
+msgid "Export all files in the project directory."
+msgstr "Exportar todos os arquivos no diretório do projeto."
+
+#: tools/editor/project_export.cpp
+msgid "Export Mode:"
+msgstr "Modo de Exportação:"
+
+#: tools/editor/project_export.cpp
+msgid "Resources to Export:"
+msgstr "Recursos a Exportar:"
+
+#: tools/editor/project_export.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "File"
+msgstr "Arquivo"
+
+#: tools/editor/project_export.cpp
+msgid "Action"
+msgstr "Ação"
+
+#: tools/editor/project_export.cpp
+msgid ""
+"Filters to export non-resource files (comma-separated, e.g.: *.json, *.txt):"
+msgstr ""
+"Filtros para exportar arquivos que não sejam recursos (separados por "
+"vírgula, e.g.: *.json, *.txt):"
+
+#: tools/editor/project_export.cpp
+msgid "Filters to exclude from export (comma-separated, e.g.: *.json, *.txt):"
+msgstr ""
+"Filtros para excluir da exportação (separados por vírgula, e.g.: *.json, *."
+"txt):"
+
+#: tools/editor/project_export.cpp
+msgid "Convert text scenes to binary on export."
+msgstr "Converter cenas em formato texto para binário ao exportar."
+
+#: tools/editor/project_export.cpp
+msgid "Images"
+msgstr "Imagens"
+
+#: tools/editor/project_export.cpp
+msgid "Keep Original"
+msgstr "Manter Original"
+
+#: tools/editor/project_export.cpp
+msgid "Compress for Disk (Lossy, WebP)"
+msgstr "Comprimir para Disco (Com perdas, WebP)"
+
+#: tools/editor/project_export.cpp
+msgid "Compress for RAM (BC/PVRTC/ETC)"
+msgstr "Comprimir para RAM (BC/PVRTC/ETC)"
+
+#: tools/editor/project_export.cpp
+msgid "Convert Images (*.png):"
+msgstr "Converter Imagens (*.png):"
+
+#: tools/editor/project_export.cpp
+msgid "Compress for Disk (Lossy) Quality:"
+msgstr "Qualidade da Compressão para Disco (com perdas):"
+
+#: tools/editor/project_export.cpp
+msgid "Shrink All Images:"
+msgstr "Encolher Todas as Imagens:"
+
+#: tools/editor/project_export.cpp
+msgid "Compress Formats:"
+msgstr "Formatos de Compressão:"
+
+#: tools/editor/project_export.cpp
+msgid "Image Groups"
+msgstr "Grupos de Imagens:"
+
+#: tools/editor/project_export.cpp
+msgid "Groups:"
+msgstr "Grupos:"
+
+#: tools/editor/project_export.cpp tools/editor/editor_node.cpp
+msgid "Default"
+msgstr "Padrão"
+
+#: tools/editor/project_export.cpp
+msgid "Compress Disk"
+msgstr "Comprimir para Disco"
+
+#: tools/editor/project_export.cpp
+msgid "Compress RAM"
+msgstr "Comprimir para RAM"
+
+#: tools/editor/project_export.cpp
+msgid "Compress Mode:"
+msgstr "Modo de Compressão:"
+
+#: tools/editor/project_export.cpp
+msgid "Lossy Quality:"
+msgstr "Qualidade com Perdas:"
+
+#: tools/editor/project_export.cpp
+msgid "Atlas:"
+msgstr "Atlas:"
+
+#: tools/editor/project_export.cpp
+msgid "Shrink By:"
+msgstr "Encolher por:"
+
+#: tools/editor/project_export.cpp
+#: tools/editor/plugins/camera_editor_plugin.cpp
+msgid "Preview Atlas"
+msgstr "Prever Atlas"
+
+#: tools/editor/project_export.cpp
+msgid "Image Filter:"
+msgstr "Filtrar Imagens:"
+
+#: tools/editor/project_export.cpp
+msgid "Images:"
+msgstr "Imagens:"
+
+#: tools/editor/project_export.cpp
+msgid "Select None"
+msgstr "Remover Seleção"
+
+#: tools/editor/project_export.cpp
+msgid "Group"
+msgstr "Grupo"
+
+#: tools/editor/project_export.cpp
+msgid "Samples"
+msgstr "Amostras"
+
+#: tools/editor/project_export.cpp
+msgid "Sample Conversion Mode: (.wav files):"
+msgstr "Modo de Conversão de Amostras (arquivos .wav):"
+
+#: tools/editor/project_export.cpp
+msgid "Keep"
+msgstr "Manter"
+
+#: tools/editor/project_export.cpp
+msgid "Compress (RAM - IMA-ADPCM)"
+msgstr "Comprimir (RAM - IMA-ADPCM)"
+
+#: tools/editor/project_export.cpp
+msgid "Sampling Rate Limit (Hz):"
+msgstr "Limite da Taxa de Amostragem (Hz):"
+
+#: tools/editor/project_export.cpp
+msgid "Trim"
+msgstr "Cortar"
+
+#: tools/editor/project_export.cpp
+msgid "Trailing Silence:"
+msgstr "Silêncio no Fim:"
+
+#: tools/editor/project_export.cpp
+msgid "Script Export Mode:"
+msgstr "Modo de Exportação de Scripts:"
+
+#: tools/editor/project_export.cpp
+msgid "Text"
+msgstr "Texto"
+
+#: tools/editor/project_export.cpp
+msgid "Compiled"
+msgstr "Compilado"
+
+#: tools/editor/project_export.cpp
+msgid "Encrypted (Provide Key Below)"
+msgstr "Criptografado (forneça chave abaixo)"
+
+#: tools/editor/project_export.cpp
+msgid "Script Encryption Key (256-bits as hex):"
+msgstr "Chave de Criptografia dos Scripts (256-bit como hex):"
+
+#: tools/editor/project_export.cpp
+msgid "Export PCK/Zip"
+msgstr "Exportar PCK/Zip"
+
+#: tools/editor/project_export.cpp tools/editor/editor_node.cpp
+msgid "Export Project"
+msgstr "Exportar Projeto"
+
+#: tools/editor/project_export.cpp tools/editor/editor_node.cpp
+msgid "Password:"
+msgstr "Senha:"
+
+#: tools/editor/project_export.cpp
+msgid "Export Project PCK"
+msgstr "Exportar PCK do Projeto"
+
+#: tools/editor/project_export.cpp
+msgid "Export.."
+msgstr "Exportar..."
+
+#: tools/editor/project_export.cpp
+msgid "Project Export"
+msgstr "Exportação de Projeto"
+
+#: tools/editor/project_export.cpp
+msgid "Export Preset:"
+msgstr "Preset de Exportação:"
+
+#: tools/editor/project_export.cpp
+msgid "Export"
+msgstr "Exportar"
+
+#: tools/editor/code_editor.cpp
+msgid "Go to Line"
+msgstr "Ir para Linha"
+
+#: tools/editor/code_editor.cpp
+msgid "Line Number:"
+msgstr "Número da Linha:"
+
+#: tools/editor/code_editor.cpp tools/editor/project_settings.cpp
+#: tools/editor/addon_editor_plugin.cpp tools/editor/editor_help.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search"
+msgstr "Pesquisar"
+
+#: tools/editor/code_editor.cpp tools/editor/editor_help.cpp
+msgid "Find"
+msgstr "Localizar"
+
+#: tools/editor/code_editor.cpp
+msgid "Replace"
+msgstr "Substituir"
+
+#: tools/editor/code_editor.cpp
+msgid "Next"
+msgstr "Próximo"
+
+#: tools/editor/code_editor.cpp
+msgid "Replaced %d ocurrence(s)."
+msgstr "%d ocorrência(s) substituída(s)."
+
+#: tools/editor/code_editor.cpp
+msgid "Not found!"
+msgstr "Não encontrado!"
+
+#: tools/editor/code_editor.cpp
+msgid "Replace By"
+msgstr "Substituir Por"
+
+#: tools/editor/code_editor.cpp
+msgid "Whole Words"
+msgstr "Palavras Inteiras"
+
+#: tools/editor/code_editor.cpp
+msgid "Case Sensitive"
+msgstr "Diferenciar Caixa"
+
+#: tools/editor/code_editor.cpp
+msgid "Backwards"
+msgstr "Para trás"
+
+#: tools/editor/code_editor.cpp
+msgid "Prompt On Replace"
+msgstr "Perguntar ao Substituir"
+
+#: tools/editor/code_editor.cpp
+msgid "Selection Only"
+msgstr "Apenas na Seleção"

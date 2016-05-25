@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Add to Project (engine.cfg)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Languages:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "New Clip"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Animation Options"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Flags"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Bake FPS:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Optimizer"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Linear Error"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Angular Error"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Angle"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Clips"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Start(s)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "End(s)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Filters"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Source path is empty."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't load post-import script."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Invalid/broken script for post-import."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Error importing scene."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import 3D Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Source Scene:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Same as Target Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Shared"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Target Texture Folder:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Options:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Post-Process Script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Overwrite Existing Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Overwrite Existing, Keep Materials"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Keep Existing, Merge with New"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Keep Existing, Ignore New"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "This Time:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Next Time:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "The Following Files are Missing:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import Anyway"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Cancel"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import & Open"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Edited scene has not been saved, open imported scene anyway?"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Importing Scene.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Running Custom Script.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't load post-import script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Invalid/broken script for post-import:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Error running post-import script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import Image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Can't import a file over itself:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't localize path: %s (already local)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Merging.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Saving.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "No source font file!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "No target font resource!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Can't load/process source font."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Couldn't save font."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Source Font:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Source Font Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Dest Resource:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Test:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Font Import"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid ""
+"This file is already a Godot font file, please supply a BMFont type file "
+"instead."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Failed opening as BMFont file."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Error initializing FreeType."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Unknown font format."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Error loading font."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Invalid font size."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Invalid font custom source."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "No samples to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Save path is empty!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Import Audio Samples"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Source Sample(s):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "No meshes to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Single Mesh Import"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Source Mesh(es):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Surface %d"
+msgstr ""

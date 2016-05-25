@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation from start. (Shift+D)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation from current pos. (D)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation position (in seconds)."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Scale animation playback globally for the node."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Create new animation in player."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Load an animation from disk."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Save the current animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Display list of animations in player."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Autoplay on Load"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Edit Target Blend Times"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation Tools"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Copy Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Create New Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Blend Times:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Next (Auto Queue):"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Cross-Animation Blend Times"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+msgid "Create Poly"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+msgid "Create Occluder Polygon"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Create a new polygon from scratch."
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Edit existing polygon:"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "LMB: Move Point."
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Ctrl+LMB: Split Segment."
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "RMB: Erase Point."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Configure Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Grid Offset:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Grid Step:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Rotation Offset:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Rotation Step:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Move Pivot"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Move Action"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Edit IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Edit CanvasItem"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Change Anchors"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom (%):"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Paste Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Select Mode (Q)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Drag: Rotate"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Alt+Drag: Move"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Press 'v' to Change Pivot, 'Shift+v' to Drag Pivot (while moving)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Alt+RMB: Depth list selection"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Move Mode (W)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate Mode (E)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid ""
+"Show a list of all objects at the position clicked\n"
+"(same as Alt+RMB in select mode)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Click to change object's rotation pivot."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Pan Mode"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Lock the selected object in place (can't be moved)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Unlock the selected object (can be moved)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Makes sure the object's children are not selectable."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Restores the object's children's ability to be selected."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Show Grid"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Use Rotation Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Snap Relative"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Configure Snap.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Use Pixel Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Expand to Parent"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Skeleton.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Make Bones"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear Bones"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Make IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "View"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom In"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Out"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Reset"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Set.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Center Selection"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Frame Selection"
+msgstr ""
