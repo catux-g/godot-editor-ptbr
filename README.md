@@ -11,8 +11,9 @@ of the [Godot Engine](https://godotengine.org) editor to Brazilian Portuguese.
 0. Fork this repository and start working on the translation (instructions [below](#how-to-translate)).
 0. Push the changes to your fork.
 0. Start a [Pull Request](https://github.com/vnen/godot-editor-ptbr/compare) from
-   your fork. Be sure to include "Closes #nnn" in the message, being "nnn" the number
-   of your opened issue.
+   your fork. Be sure to include "#nnn" in the message, being "nnn" the number
+   of your opened issue, so it can be referenced. Do not try to close it, I'll keep all issues
+   opened for quick viewing of what's been done.
 0. I'll review and approve as soon as possible.
 
 If you're not familiar with Git, you can also download the file from GitHub and send me the result
