@@ -3,6 +3,9 @@ msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
 #: tools/editor/code_editor.cpp
 msgid "Skip"
 msgstr "Pular"
@@ -179,7 +182,7 @@ msgstr "Não é possível ir ao subdiretório:"
 
 #: tools/editor/editor_file_system.cpp
 msgid "ScanSources"
-msgstr ""
+msgstr "BuscarFontes"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Search Replacement For:"
@@ -194,107 +197,111 @@ msgid ""
 "Scene '%s' is currently being edited.\n"
 "Changes will not take effect unless reloaded."
 msgstr ""
+"A cena \"%s\" está sendo editada atualmente.\n"
+"As mudanças não terão efeito a menos que seja recarregada."
 
 #: tools/editor/dependency_editor.cpp
 msgid ""
 "Resource '%s' is in use.\n"
 "Changes will take effect when reloaded."
 msgstr ""
+"O recurso \"%s\" está em uso.\n"
+"As mudanças não terão efeito a menos que seja recarregado."
 
 #: tools/editor/dependency_editor.cpp
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependências"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Dependencies:"
-msgstr ""
+msgstr "Dependências:"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Fix Broken"
-msgstr ""
+msgstr "Consertar Quebradas:"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Dependency Editor"
-msgstr ""
+msgstr "Editor de Dependências"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Search Replacement Resource:"
-msgstr ""
+msgstr "Buscar Recurso para Substituição:"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Owners Of:"
-msgstr ""
+msgstr "Donos De:"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Remove selected files from the project? (no undo)"
-msgstr ""
+msgstr "Remover os arquivos selecionados do projeto? (impossível desfazer)"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Error loading:"
-msgstr ""
+msgstr "Erro ao carregar:"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Scene failed to load due to missing dependencies:"
-msgstr ""
+msgstr "A cena não pôde ser carregada por causa de dependências ausentes:"
 
 #: tools/editor/dependency_editor.cpp tools/editor/scenes_dock.cpp
 #: tools/editor/editor_file_dialog.cpp tools/editor/editor_node.cpp
 #: tools/editor/editor_help.cpp tools/editor/plugins/script_editor_plugin.cpp
 msgid "Open Anyway"
-msgstr ""
+msgstr "Abrir Assim Mesmo"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Which action should be taken?"
-msgstr ""
+msgstr "Que ação deve ser tomada?"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Fix Dependencies"
-msgstr ""
+msgstr "Consertar Dependências"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Errors loading!"
-msgstr ""
+msgstr "Erros ao carregar!"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Permanently delete %d item(s)? (No undo!)"
-msgstr ""
+msgstr "Excluir permanentemente %d item(s)? (Impossível desfazer!)"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Owns"
-msgstr ""
+msgstr "Possui"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Resources Without Explicit Ownership:"
-msgstr ""
+msgstr "Recursos Sem Posse Explícita:"
 
 #: tools/editor/dependency_editor.cpp tools/editor/editor_node.cpp
 msgid "Orphan Resource Explorer"
-msgstr ""
+msgstr "Explorador de Recursos Órfãos"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Delete selected files?"
-msgstr ""
+msgstr "Excluir os arquivos selecionados?"
 
 #: tools/editor/dependency_editor.cpp
 msgid "Delete"
-msgstr ""
+msgstr "Excluir"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Light Radius"
-msgstr ""
+msgstr "Mudar Raio da Luz"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Camera FOV"
-msgstr ""
+msgstr "Mudar FOV da Câmera"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Camera Size"
-msgstr ""
+msgstr "Mudar Tamanho da Câmera"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Sphere Shape Radius"
-msgstr ""
+msgstr "Mudar Raio da Forma de Esfera"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Box Shape Extents"
-msgstr ""
+msgstr "Mudar Dimensões da Forma de Caixa"
