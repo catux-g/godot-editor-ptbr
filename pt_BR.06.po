@@ -2,297 +2,306 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Relsi Maron <relsimaron@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: tools/editor/run_settings_dialog.cpp
 msgid "Main Scene"
-msgstr ""
+msgstr "Cena Principal"
 
 #: tools/editor/run_settings_dialog.cpp
 msgid "Main Scene Arguments:"
-msgstr ""
+msgstr "Argumentos da Cena Principal:"
 
 #: tools/editor/run_settings_dialog.cpp
 msgid "Scene Run Settings"
-msgstr ""
+msgstr "Configurações de Carregamento da Cena "
 
 #: tools/editor/project_settings.cpp
 msgid "Invalid action (anything goes but '/' or ':')."
-msgstr ""
+msgstr "Ação Inválida (qualquer coisa serve, mas '/' ou ':')."
 
 #: tools/editor/project_settings.cpp
 msgid "Action '%s' already exists!"
-msgstr ""
+msgstr "A ação '%s' já existe."
 
 #: tools/editor/project_settings.cpp
 msgid "Rename Input Action Event"
-msgstr ""
+msgstr "Renomear Evento Ação de Entrada"
 
 #: tools/editor/project_settings.cpp
 msgid "Add Input Action Event"
-msgstr ""
+msgstr "Adicionar Evento Ação de Entrada"
 
 #: tools/editor/project_settings.cpp
 msgid "Meta+"
-msgstr ""
+msgstr "Meta+"
 
 #: tools/editor/project_settings.cpp
 msgid "Shift+"
-msgstr ""
+msgstr "Shift+"
 
 #: tools/editor/project_settings.cpp
 msgid "Alt+"
-msgstr ""
+msgstr "Alt+"
 
 #: tools/editor/project_settings.cpp
 msgid "Control+"
-msgstr ""
+msgstr "Control+"
 
 #: tools/editor/project_settings.cpp
 msgid "Press a Key.."
-msgstr ""
+msgstr "Pressione uma Tecla..."
 
 #: tools/editor/project_settings.cpp
 msgid "Mouse Button Index:"
-msgstr ""
+msgstr "Botões do Mouse: "
 
 #: tools/editor/project_settings.cpp
 msgid "Left Button"
-msgstr ""
+msgstr "Botão Esquerdo"
 
 #: tools/editor/project_settings.cpp
 msgid "Right Button"
-msgstr ""
+msgstr "Botão Direito"
 
 #: tools/editor/project_settings.cpp
 msgid "Middle Button"
-msgstr ""
+msgstr "Botão Central"
 
 #: tools/editor/project_settings.cpp
 msgid "Wheel Up Button"
-msgstr ""
+msgstr "Roda para Cima"
 
 #: tools/editor/project_settings.cpp
 msgid "Wheel Down Button"
-msgstr ""
+msgstr "Roda para Baixo"
 
 #: tools/editor/project_settings.cpp
 msgid "Button 6"
-msgstr ""
+msgstr "Botão 6"
 
 #: tools/editor/project_settings.cpp
 msgid "Button 7"
-msgstr ""
+msgstr "Botão 7"
 
 #: tools/editor/project_settings.cpp
 msgid "Button 8"
-msgstr ""
+msgstr "Botão 8"
 
 #: tools/editor/project_settings.cpp
 msgid "Button 9"
-msgstr ""
+msgstr "Botão 9"
 
 #: tools/editor/project_settings.cpp
 msgid "Joystick Axis Index:"
-msgstr ""
+msgstr "Eixos do Joystick:"
 
 #: tools/editor/project_settings.cpp
 msgid "Axis"
-msgstr ""
+msgstr "Eixos"
 
 #: tools/editor/project_settings.cpp
 msgid "Joystick Button Index:"
-msgstr ""
+msgstr "Botões do Joystick"
 
 #: tools/editor/project_settings.cpp
 msgid "Add Input Action"
-msgstr ""
+msgstr "Adicionar Ação de Entrada"
 
 #: tools/editor/project_settings.cpp
 msgid "Erase Input Action Event"
-msgstr ""
+msgstr "Apagar Evento Ação de Entrada"
 
 #: tools/editor/project_settings.cpp
 msgid "Device"
-msgstr ""
+msgstr "Dispositivo"
 
 #: tools/editor/project_settings.cpp
 msgid "Button"
-msgstr ""
+msgstr "Botão"
 
 #: tools/editor/project_settings.cpp
 msgid "Left Button."
-msgstr ""
+msgstr "Botão Esquerdo."
 
 #: tools/editor/project_settings.cpp
 msgid "Right Button."
-msgstr ""
+msgstr "Botão Direito."
 
 #: tools/editor/project_settings.cpp
 msgid "Middle Button."
-msgstr ""
+msgstr "Botão  do Meio."
 
 #: tools/editor/project_settings.cpp
 msgid "Wheel Up."
-msgstr ""
+msgstr "Roda para Cima."
 
 #: tools/editor/project_settings.cpp
 msgid "Wheel Down."
-msgstr ""
+msgstr "Roda para Baixo."
 
 #: tools/editor/project_settings.cpp
 msgid "Toggle Persisting"
-msgstr ""
+msgstr "Alternar Persistindo"
 
 #: tools/editor/project_settings.cpp
 msgid "Error saving settings."
-msgstr ""
+msgstr "Erro ao salvar as configurações"
 
 #: tools/editor/project_settings.cpp
 #: tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "Settings saved OK."
-msgstr ""
+msgstr "Configurações Salvas."
 
 #: tools/editor/project_settings.cpp
 msgid "Add Translation"
-msgstr ""
+msgstr "Adicionar Tradução"
 
 #: tools/editor/project_settings.cpp
 msgid "Toggle AutoLoad Globals"
-msgstr ""
+msgstr "Alternar Auto Carregamentos Globais "
 
 #: tools/editor/project_settings.cpp
 msgid "Invalid name."
-msgstr ""
+msgstr "Nome Inválido."
 
 #: tools/editor/project_settings.cpp
 msgid "Valid characters:"
-msgstr ""
+msgstr "Caracteres válidos:"
 
 #: tools/editor/project_settings.cpp
 msgid "Invalid name. Must not collide with an existing engine class name."
-msgstr ""
+msgstr "Nome inválido. Não é permitido utilizar nomes de classes da engine."
 
 #: tools/editor/project_settings.cpp
 msgid "Invalid name. Must not collide with an existing buit-in type name."
 msgstr ""
+"Nome inválido. Não é permitido utilizar nomes de tipos internos da engine."
 
 #: tools/editor/project_settings.cpp
 msgid "Invalid name. Must not collide with an existing global constant name."
 msgstr ""
+"Nome inválido. Não é permitido utilizar nomes de constantes globais da "
+"engine. "
 
 #: tools/editor/project_settings.cpp
 msgid "Add Autoload"
-msgstr ""
+msgstr "Adicionar Autoload"
 
 #: tools/editor/project_settings.cpp
 msgid "Remove Autoload"
-msgstr ""
+msgstr "Remover Autoload"
 
 #: tools/editor/project_settings.cpp
 msgid "Move Autoload"
-msgstr ""
+msgstr "Mover Autoload"
 
 #: tools/editor/project_settings.cpp
 msgid "Remove Translation"
-msgstr ""
+msgstr "Remover tradução"
 
 #: tools/editor/project_settings.cpp
 msgid "Add Remapped Path"
-msgstr ""
+msgstr "Adicionar Caminho Remapeado"
 
 #: tools/editor/project_settings.cpp
 msgid "Resource Remap Add Remap"
-msgstr ""
+msgstr "Recurso de Remapeamento Adicionar Remapeamento"
 
 #: tools/editor/project_settings.cpp
 msgid "Change Resource Remap Language"
-msgstr ""
+msgstr "Alterar Idioma de Recurso de Remapeamento"
 
 #: tools/editor/project_settings.cpp
 msgid "Remove Resource Remap"
-msgstr ""
+msgstr "Remover Recurso de Remapeamento"
 
 #: tools/editor/project_settings.cpp
 msgid "Remove Resource Remap Option"
-msgstr ""
+msgstr "Remover Opção de Recurso de Remapeamento"
 
 #: tools/editor/project_settings.cpp
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 #: tools/editor/project_settings.cpp
 msgid "Project Settings (engine.cfg)"
-msgstr ""
+msgstr "Configurações do Projeto  (engine.cfg)"
 
 #: tools/editor/project_settings.cpp tools/editor/addon_editor_plugin.cpp
 msgid "Category:"
-msgstr ""
+msgstr "Categoria:"
 
 #: tools/editor/project_settings.cpp tools/editor/property_editor.cpp
 msgid "Property:"
-msgstr ""
+msgstr "Propriedade:"
 
 #: tools/editor/project_settings.cpp
 msgid "Del"
-msgstr ""
+msgstr "Del"
 
 #: tools/editor/project_settings.cpp
 msgid "Copy To Platform.."
-msgstr ""
+msgstr "Copiar para a Plataforma.."
 
 #: tools/editor/project_settings.cpp
 msgid "Input Map"
-msgstr ""
+msgstr "Mapa de Entrada"
 
 #: tools/editor/project_settings.cpp
 msgid "Action:"
-msgstr ""
+msgstr "Ação"
 
 #: tools/editor/project_settings.cpp
 msgid "Device:"
-msgstr ""
+msgstr "Dispositivo:"
 
 #: tools/editor/project_settings.cpp
 msgid "Index:"
-msgstr ""
+msgstr "Índice:"
 
 #: tools/editor/project_settings.cpp
 msgid "Localization"
-msgstr ""
+msgstr "Localização"
 
 #: tools/editor/project_settings.cpp
 msgid "Translations"
-msgstr ""
+msgstr "Traduções"
 
 #: tools/editor/project_settings.cpp
 msgid "Translations:"
-msgstr ""
+msgstr "Traduções:"
 
 #: tools/editor/project_settings.cpp
 msgid "Add.."
-msgstr ""
+msgstr "Adicionar.."
 
 #: tools/editor/project_settings.cpp
 msgid "Remaps"
-msgstr ""
+msgstr "Remapeamentos"
 
 #: tools/editor/project_settings.cpp
 msgid "Resources:"
-msgstr ""
+msgstr "Recursos:"
 
 #: tools/editor/project_settings.cpp
 msgid "Remaps by Locale:"
-msgstr ""
+msgstr "Remapeamentos por Localidade:"
 
 #: tools/editor/project_settings.cpp
 msgid "Locale"
-msgstr ""
+msgstr "Localidade:"
 
 #: tools/editor/project_settings.cpp
 msgid "AutoLoad"
-msgstr ""
+msgstr "AutoLoad"
 
 #: tools/editor/project_settings.cpp
 msgid "Node Name:"
-msgstr ""
+msgstr "Nome do Nó:"
