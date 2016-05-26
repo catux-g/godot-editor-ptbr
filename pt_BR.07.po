@@ -6,295 +6,296 @@ msgstr ""
 
 #: tools/editor/project_settings.cpp
 msgid "List:"
-msgstr ""
+msgstr "Lista:"
 
 #: tools/editor/project_settings.cpp
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: tools/editor/project_settings.cpp
 msgid "Singleton"
-msgstr ""
+msgstr "Singleton"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid ""
 "This item cannot be made visible because the parent is hidden. Unhide the "
 "parent first."
-msgstr ""
+msgstr "Este item não pode se tornar visível porque o pai está escondido. Reexiba o "
+"pai primeiro."
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Toggle Spatial Visible"
-msgstr ""
+msgstr "Alternar Spatial Visível"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Toggle CanvasItem Visible"
-msgstr ""
+msgstr "Alternar CanvasItem Visível"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Instance:"
-msgstr ""
+msgstr "Instância:"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Invalid node name, the following characters are not allowed:"
-msgstr ""
+msgstr "Nome de nó Inválido, Os caracteres seguintes não podem ser permitidos:"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Rename Node"
-msgstr ""
+msgstr "Renomear Nó"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Scene Tree (Nodes):"
-msgstr ""
+msgstr "Árvore de Cena (Nós):"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Editable Children"
-msgstr ""
+msgstr "Filho Editável"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Load As Placeholder"
-msgstr ""
+msgstr "Carregar como Espaço Reservado"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Open in Editor"
-msgstr ""
+msgstr "Abrir no Editor"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Clear Inheritance"
-msgstr ""
+msgstr "Limpar Herança"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Clear Inheritance? (No Undo!)"
-msgstr ""
+msgstr "Limpar Herança? (Não será desfeito!)"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Clear!"
-msgstr ""
+msgstr "Limpo!"
 
 #: tools/editor/scene_tree_editor.cpp
 msgid "Select a Node"
-msgstr ""
+msgstr "Selecione um Nó"
 
 #: tools/editor/quick_open.cpp tools/editor/editor_help.cpp
 #: tools/editor/create_dialog.cpp tools/editor/plugins/script_editor_plugin.cpp
 msgid "Matches:"
-msgstr ""
+msgstr "Combinações:"
 
 #: tools/editor/quick_open.cpp
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: tools/editor/editor_reimport_dialog.cpp
 msgid "Please wait for scan to complete."
-msgstr ""
+msgstr "Por favor aguarde a verificação completar."
 
 #: tools/editor/editor_reimport_dialog.cpp
 msgid "Current scene must be saved to re-import."
-msgstr ""
+msgstr "Cena Atual só deve ser salva para re-importação."
 
 #: tools/editor/editor_reimport_dialog.cpp tools/editor/editor_node.cpp
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Save & Re-Import"
-msgstr ""
+msgstr "Salvar e Re-Importar"
 
 #: tools/editor/editor_reimport_dialog.cpp
 msgid "Re-Importing"
-msgstr ""
+msgstr "Re-Importando"
 
 #: tools/editor/editor_reimport_dialog.cpp
 msgid "Re-Import Changed Resources"
-msgstr ""
+msgstr "Re-Importar Mudando Recursos"
 
 #: tools/editor/resources_dock.cpp tools/editor/editor_node.cpp
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Error saving resource!"
-msgstr ""
+msgstr "Erro salvando Recurso!"
 
 #: tools/editor/resources_dock.cpp
 msgid "Create New Resource"
-msgstr ""
+msgstr "Criar Novo Recurso"
 
 #: tools/editor/resources_dock.cpp
 msgid "Open Resource"
-msgstr ""
+msgstr "Abrir Recurso"
 
 #: tools/editor/resources_dock.cpp
 msgid "Save Resource"
-msgstr ""
+msgstr "Salvar Recurso"
 
 #: tools/editor/resources_dock.cpp tools/editor/editor_node.cpp
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Save Resource As.."
-msgstr ""
+msgstr "Salvar Recuso como.."
 
 #: tools/editor/resources_dock.cpp
 msgid "Resource Tools"
-msgstr ""
+msgstr "Ferramentas de Recurso"
 
 #: tools/editor/resources_dock.cpp
 msgid "Make Local"
-msgstr ""
+msgstr "Fazer Local"
 
 #: tools/editor/editor_run_script.cpp
 msgid "Write your logic in the _run() method."
-msgstr ""
+msgstr "Escreva sua lógica no método _run()."
 
 #: tools/editor/editor_run_script.cpp
 msgid "There is an edited scene already."
-msgstr ""
+msgstr "Há uma cena já editada."
 
 #: tools/editor/editor_run_script.cpp
 msgid "Couldn't instance script:"
-msgstr ""
+msgstr "Não foi possível instanciar o script:"
 
 #: tools/editor/editor_run_script.cpp
 msgid "Did you forget the 'tool' keyword?"
-msgstr ""
+msgstr "Você esqueceu da 'ferramenta' teclado?"
 
 #: tools/editor/editor_run_script.cpp
 msgid "Couldn't run script:"
-msgstr ""
+msgstr "Não foi possível rodar o script:"
 
 #: tools/editor/editor_run_script.cpp
 msgid "Did you forget the '_run' method?"
-msgstr ""
+msgstr "Você esqueceu o método '_run'?"
 
 #: tools/editor/editor_data.cpp
 msgid "Updating Scene"
-msgstr ""
+msgstr "Atualizando Cena"
 
 #: tools/editor/editor_data.cpp
 msgid "Storing local changes.."
-msgstr ""
+msgstr "Armazenando mudanças locais.."
 
 #: tools/editor/editor_data.cpp
 msgid "Updating scene.."
-msgstr ""
+msgstr "Atualizando Cena.."
 
 #: tools/editor/file_type_cache.cpp
 msgid "Can't open file_type_cache.cch for writing, not saving file type cache!"
-msgstr ""
+msgstr "Não pode abrir arquivo_tipo_cache.cch para escrita, não salve arquivo tipo cache!"
 
 #: tools/editor/reparent_dialog.cpp tools/editor/scene_tree_dock.cpp
 msgid "Reparent Node"
-msgstr ""
+msgstr "Reparentar Nó"
 
 #: tools/editor/reparent_dialog.cpp
 msgid "Reparent Location (Select new Parent):"
-msgstr ""
+msgstr "Reparentar Localização (Selecione Novo Pai):"
 
 #: tools/editor/reparent_dialog.cpp
 msgid "Keep Global Transform"
-msgstr ""
+msgstr "Manter Transformação Global"
 
 #: tools/editor/reparent_dialog.cpp
 msgid "Reparent"
-msgstr ""
+msgstr "Reparentar"
 
 #: tools/editor/editor_plugin_settings.cpp tools/editor/editor_node.cpp
 msgid "Update"
-msgstr ""
+msgstr "Atualizar"
 
 #: tools/editor/scenes_dock.cpp tools/editor/editor_file_dialog.cpp
 msgid "Favorites:"
-msgstr ""
+msgstr "Favoritos:"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Same source and destination files, doing nothing."
-msgstr ""
+msgstr "Mesmos arquivos e destino de origem, não faça nada."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Same source and destination paths, doing nothing."
-msgstr ""
+msgstr "Mesmo caminho e destino de origem, não faça nada."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Can't move directories to within themselves."
-msgstr ""
+msgstr "Não é possível mover diretórios para dentro de si mesmos."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Can't operate on '..'"
-msgstr ""
+msgstr "Não é possível operar no '..'"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Pick New Name and Location For:"
-msgstr ""
+msgstr "Escolha Novo Nome e Localização Para:"
 
 #: tools/editor/scenes_dock.cpp
 msgid "No files selected!"
-msgstr ""
+msgstr "Sem arquivos selecionados!"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Instance"
-msgstr ""
+msgstr "Instância"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Edit Dependencies.."
-msgstr ""
+msgstr "Editar Dependências.."
 
 #: tools/editor/scenes_dock.cpp tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "View Owners.."
-msgstr ""
+msgstr "Visualizar Proprietários.."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Rename or Move.."
-msgstr ""
+msgstr "Renomear ou Mover.."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Move To.."
-msgstr ""
+msgstr "Mover Para.."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Show In File Manager"
-msgstr ""
+msgstr "Mostrar no Gerenciador de Arquivos"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Previous Directory"
-msgstr ""
+msgstr "Diretório Anterior"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Next Directory"
-msgstr ""
+msgstr "Próximo Diretório"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Re-Scan Filesystem"
-msgstr ""
+msgstr "Re-escanear Arquivos de Sistema"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Move Favorite Up"
-msgstr ""
+msgstr "Mover Favorito Acima"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Move Favorite Down"
-msgstr ""
+msgstr "Mover Favorito Abaixo"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Toggle folder status as Favorite"
-msgstr ""
+msgstr "Alternar Status da pasta como Favorito"
 
 #: tools/editor/scenes_dock.cpp
 msgid "Instance the selected scene(s) as child of the selected node."
-msgstr ""
+msgstr "Instancia a cena selecionada como filho do nó selecionado."
 
 #: tools/editor/scenes_dock.cpp
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: tools/editor/editor_import_export.cpp
 msgid "Added:"
-msgstr ""
+msgstr "Adicionado:"
 
 #: tools/editor/editor_import_export.cpp
 msgid "Removed:"
-msgstr ""
+msgstr "Removido:"
 
 #: tools/editor/editor_import_export.cpp
 msgid "Could not save atlas subtexture:"
-msgstr ""
+msgstr "Não foi possível salvar Subtextura Atlas:"
 
 #: tools/editor/editor_import_export.cpp
 msgid "Storing File:"
-msgstr ""
+msgstr "Armazenando Arquivo:"
 
 #: tools/editor/editor_import_export.cpp
 msgid "Packing"
-msgstr ""
+msgstr "Embalagem"
