@@ -2,96 +2,103 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Relsi Maron <relsimaron@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Capsule Shape Radius"
-msgstr ""
+msgstr "Alterar o raio do Shape Capsule"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Capsule Shape Height"
-msgstr ""
+msgstr "Alterar a altura do Shape Capsule"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Ray Shape Length"
-msgstr ""
+msgstr "Mudar o tamanho do Shape Ray"
 
 #: tools/editor/spatial_editor_gizmos.cpp
 msgid "Change Notifier Extents"
-msgstr ""
+msgstr "Alterar o Notificador de Extensões"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Invalid parent class name"
-msgstr ""
+msgstr "Nome de classe pai inválido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Valid chars:"
-msgstr ""
+msgstr "Caracteres válidos:"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Invalid class name"
-msgstr ""
+msgstr "Nome de classe inválido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Valid name"
-msgstr ""
+msgstr "Nome Válido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/D"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Class name is invalid!"
-msgstr ""
+msgstr "O nome da classe é inválido!"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Parent class name is invalid!"
-msgstr ""
+msgstr "O Nome da classe pai é inválido!"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Invalid path!"
-msgstr ""
+msgstr "Caminho inválido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Could not create script in filesystem."
-msgstr ""
+msgstr "Não foi possível criar o script no sistema de arquivos."
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Path is empty"
-msgstr ""
+msgstr "O Caminho está vazio"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Path is not local"
-msgstr ""
+msgstr "O caminho não é local"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Invalid base path"
-msgstr ""
+msgstr "Caminho base inválido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "File exists"
-msgstr ""
+msgstr "O Arquivo existe"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Invalid extension"
-msgstr ""
+msgstr "Extensão inválida"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Valid path"
-msgstr ""
+msgstr "Caminho válido"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Class Name:"
-msgstr ""
+msgstr "Nome da Classe"
 
 #: tools/editor/script_create_dialog.cpp tools/editor/scene_tree_editor.cpp
 #: tools/editor/editor_help.cpp
 msgid "Inherits:"
-msgstr ""
+msgstr "Heranças:"
 
 #: tools/editor/script_create_dialog.cpp
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: tools/editor/script_create_dialog.cpp tools/editor/property_editor.cpp
 #: tools/editor/plugins/sample_library_editor_plugin.cpp
@@ -99,200 +106,200 @@ msgstr ""
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Error!"
-msgstr ""
+msgstr "Erro!"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Built-In Script"
-msgstr ""
+msgstr "Built-In Script"
 
 #: tools/editor/script_create_dialog.cpp tools/editor/project_settings.cpp
 #: tools/editor/editor_file_dialog.cpp
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp
 msgid "Path:"
-msgstr ""
+msgstr "Caminho:"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Create Node Script"
-msgstr ""
+msgstr "Criar Script de Nó"
 
 #: tools/editor/script_create_dialog.cpp
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: tools/editor/animation_editor.cpp
 msgid "Disabled"
-msgstr ""
+msgstr "Desabilitado"
 
 #: tools/editor/animation_editor.cpp
 msgid "All Selection"
-msgstr ""
+msgstr "Toda Seleção"
 
 #: tools/editor/animation_editor.cpp
 msgid "Move Add Key"
-msgstr ""
+msgstr "Mover Add Key"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Change Transition"
-msgstr ""
+msgstr "Mudar Transição"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Change Transform"
-msgstr ""
+msgstr "Mudar Transformação"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Change Value"
-msgstr ""
+msgstr "Mudar Valor"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Change Call"
-msgstr ""
+msgstr "Mudar Chamada"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Add Track"
-msgstr ""
+msgstr "Adicionar Trilha"
 
 #: tools/editor/animation_editor.cpp
 msgid "Move Anim Track Up"
-msgstr ""
+msgstr "Mover Trilha para cima"
 
 #: tools/editor/animation_editor.cpp
 msgid "Move Anim Track Down"
-msgstr ""
+msgstr "Mover Trilha para Baixo"
 
 #: tools/editor/animation_editor.cpp
 msgid "Remove Anim Track"
-msgstr ""
+msgstr "Remover Trilha"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Duplicate Keys"
-msgstr ""
+msgstr "Duplicar Chave"
 
 #: tools/editor/animation_editor.cpp
 msgid "Set Transitions to:"
-msgstr ""
+msgstr "Definir Transições para:"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Track Rename"
-msgstr ""
+msgstr "Renomear Trilha"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Track Change Interpolation"
-msgstr ""
+msgstr "Alterar Interpolação da Trilha"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Track Change Value Mode"
-msgstr ""
+msgstr "Mudar Modo de Valor da Trilha"
 
 #: tools/editor/animation_editor.cpp
 msgid "Edit Node Curve"
-msgstr ""
+msgstr "Editar Curva do Nó"
 
 #: tools/editor/animation_editor.cpp
 msgid "Edit Selection Curve"
-msgstr ""
+msgstr "Editar Curva de Seleção"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Delete Keys"
-msgstr ""
+msgstr "Excluir Chaves"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Add Key"
-msgstr ""
+msgstr "Adicionar Chave"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Move Keys"
-msgstr ""
+msgstr "Mover Chaves"
 
 #: tools/editor/animation_editor.cpp
 msgid "Scale Selection"
-msgstr ""
+msgstr "Seleção de Escala"
 
 #: tools/editor/animation_editor.cpp
 msgid "Scale From Cursor"
-msgstr ""
+msgstr "Escala do Cursor"
 
 #: tools/editor/animation_editor.cpp
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Duplicate Selection"
-msgstr ""
+msgstr "Seleção Duplicada"
 
 #: tools/editor/animation_editor.cpp
 msgid "Duplicate Transposed"
-msgstr ""
+msgstr "Duplicado Transposto"
 
 #: tools/editor/animation_editor.cpp
 msgid "Goto Next Step"
-msgstr ""
+msgstr "Ir para o Próximo Passo"
 
 #: tools/editor/animation_editor.cpp
 msgid "Goto Prev Step"
-msgstr ""
+msgstr "Ir para o Passo Anterior"
 
 #: tools/editor/animation_editor.cpp tools/editor/property_editor.cpp
 msgid "Linear"
-msgstr ""
+msgstr "Linear"
 
 #: tools/editor/animation_editor.cpp
 #: tools/editor/plugins/theme_editor_plugin.cpp
 msgid "Constant"
-msgstr ""
+msgstr "Constante"
 
 #: tools/editor/animation_editor.cpp
 msgid "In"
-msgstr ""
+msgstr "In"
 
 #: tools/editor/animation_editor.cpp
 msgid "Out"
-msgstr ""
+msgstr "Out"
 
 #: tools/editor/animation_editor.cpp
 msgid "In-Out"
-msgstr ""
+msgstr "In-Out"
 
 #: tools/editor/animation_editor.cpp
 msgid "Out-In"
-msgstr ""
+msgstr "Out-In"
 
 #: tools/editor/animation_editor.cpp
 msgid "Transitions"
-msgstr ""
+msgstr "Transições"
 
 #: tools/editor/animation_editor.cpp
 msgid "Optimize Animation"
-msgstr ""
+msgstr "Otimizar Animação"
 
 #: tools/editor/animation_editor.cpp
 msgid "Clean-Up Animation"
-msgstr ""
+msgstr "Limpar Animação"
 
 #: tools/editor/animation_editor.cpp
 msgid "Create NEW track for %s and insert key?"
-msgstr ""
+msgstr "Criar NOVA trilha para %s e inserir chave? "
 
 #: tools/editor/animation_editor.cpp
 msgid "Create %d NEW tracks and insert keys?"
-msgstr ""
+msgstr "Criar NOVAS trilhas para %s e inserir chaves? "
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Create & Insert"
-msgstr ""
+msgstr "Criar e Inserir"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Insert Track & Key"
-msgstr ""
+msgstr "Inserir Trilha e Chave"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Insert Key"
-msgstr ""
+msgstr "Inserir Chave"
 
 #: tools/editor/animation_editor.cpp
 msgid "Change Anim Len"
-msgstr ""
+msgstr "Mudar Comprimento da Animação"
 
 #: tools/editor/animation_editor.cpp
 msgid "Change Anim Loop"
-msgstr ""
+msgstr "Mudar Loop da Animação"
 
 #: tools/editor/animation_editor.cpp
 msgid "Anim Create Typed Value Key"
-msgstr ""
+msgstr "Criar Chave com Valor Definido"
