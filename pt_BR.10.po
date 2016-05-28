@@ -6,296 +6,298 @@ msgstr ""
 
 #: tools/editor/editor_node.cpp
 msgid "Create a new resource in memory and edit it."
-msgstr ""
+msgstr "Cria um novo recurso na memória e o edita."
 
 #: tools/editor/editor_node.cpp
 msgid "Load an existing resource from disk and edit it."
-msgstr ""
+msgstr "Carrega um recurso existente do disco e o edita."
 
 #: tools/editor/editor_node.cpp
 msgid "Save the currently edited resource."
-msgstr ""
+msgstr "Salva o recurso editado atualmente."
 
 #: tools/editor/editor_node.cpp
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Save As.."
-msgstr ""
+msgstr "Salvar Como..."
 
 #: tools/editor/editor_node.cpp
 msgid "Go to the previous edited object in history."
-msgstr ""
+msgstr "Ir ao objeto editado anteriormente no histórico."
 
 #: tools/editor/editor_node.cpp
 msgid "Go to the next edited object in history."
-msgstr ""
+msgstr "Ir ao próximo objeto editado no histórico."
 
 #: tools/editor/editor_node.cpp
 msgid "History of recently edited objects."
-msgstr ""
+msgstr "Histórico dos objetos editados recentemente."
 
 #: tools/editor/editor_node.cpp
 msgid "Object properties."
-msgstr ""
+msgstr "Propriedades do objeto."
 
 #: tools/editor/editor_node.cpp
 msgid "FileSystem"
-msgstr ""
+msgstr "Arquivos"
 
 #: tools/editor/editor_node.cpp
 msgid "Output"
-msgstr ""
+msgstr "Saída"
 
 #: tools/editor/editor_node.cpp
 msgid "Thanks from the Godot community!"
-msgstr ""
+msgstr "Agradecimentos da comunidade Godot!"
 
 #: tools/editor/editor_node.cpp
 msgid "Thanks!"
-msgstr ""
+msgstr "Obrigado!"
 
 #: tools/editor/editor_node.cpp
 msgid "Import Templates From ZIP File"
-msgstr ""
+msgstr "Importar Modelos de um Arquivo ZIP."
 
 #: tools/editor/editor_node.cpp
 msgid "Export Library"
-msgstr ""
+msgstr "Exportar Biblioteca"
 
 #: tools/editor/editor_node.cpp
 msgid "Merge With Existing"
-msgstr ""
+msgstr "Fundir Com Existente"
 
 #: tools/editor/editor_node.cpp
 msgid "Open & Run a Script"
-msgstr ""
+msgstr "Abrir e Rodar um Script"
 
 #: tools/editor/editor_node.cpp
 msgid "Load Errors"
-msgstr ""
+msgstr "Erros de Carregamento"
 
 #: tools/editor/call_dialog.cpp
 msgid "Method List For '%s':"
-msgstr ""
+msgstr "Lista de Métodos para \"%s\":"
 
 #: tools/editor/call_dialog.cpp
 msgid "Call"
-msgstr ""
+msgstr "Chamar"
 
 #: tools/editor/call_dialog.cpp
 msgid "Method List:"
-msgstr ""
+msgstr "Lista de Métodos:"
 
 #: tools/editor/call_dialog.cpp
 msgid "Arguments:"
-msgstr ""
+msgstr "Argumentos:"
 
 #: tools/editor/call_dialog.cpp
 msgid "Return:"
-msgstr ""
+msgstr "Retornar:"
 
 #: tools/editor/pvrtc_compress.cpp
 msgid "Could not execute PVRTC tool:"
-msgstr ""
+msgstr "Não se pôde executar a ferramenta PVRTC:"
 
 #: tools/editor/pvrtc_compress.cpp
 msgid "Can't load back converted image using PVRTC tool:"
-msgstr ""
+msgstr "Não se pôde carregar de volta imagem convertida por PVRTC:"
 
 #: tools/editor/array_property_edit.cpp
 msgid "Resize Array"
-msgstr ""
+msgstr "Redimensionar Vetor"
 
 #: tools/editor/array_property_edit.cpp
 msgid "Change Array Value Type"
-msgstr ""
+msgstr "Alterar Tipo de Valor do Vetor"
 
 #: tools/editor/array_property_edit.cpp
 msgid "Change Array Value"
-msgstr ""
+msgstr "Alterar Valor do Vetor"
 
 #: tools/editor/editor_help.cpp
 msgid "Search Classes"
-msgstr ""
+msgstr "Pesquisar Classes"
 
 #: tools/editor/editor_help.cpp
 msgid "Class List:"
-msgstr ""
+msgstr "Lista de Classes:"
 
 #: tools/editor/editor_help.cpp
 msgid "Inherited by:"
-msgstr ""
+msgstr "Herdado por:"
 
 #: tools/editor/editor_help.cpp
 msgid "Brief Description:"
-msgstr ""
+msgstr "Descrição breve:"
 
 #: tools/editor/editor_help.cpp
 msgid "Public Methods:"
-msgstr ""
+msgstr "Métodos Públicos:"
 
 #: tools/editor/editor_help.cpp
 msgid "Members:"
-msgstr ""
+msgstr "Membros:"
 
 #: tools/editor/editor_help.cpp
 msgid "GUI Theme Items:"
-msgstr ""
+msgstr "Items do Tema de GUI:"
 
 #: tools/editor/editor_help.cpp
 msgid "Signals:"
-msgstr ""
+msgstr "Sinais:"
 
 #: tools/editor/editor_help.cpp
 msgid "Constants:"
-msgstr ""
+msgstr "Constantes:"
 
 #: tools/editor/editor_help.cpp
 msgid "Method Description:"
-msgstr ""
+msgstr "Descrição do Método:"
 
 #: tools/editor/editor_help.cpp
 msgid "Search Text"
-msgstr ""
+msgstr "Pesquisar Texto"
 
 #: tools/editor/project_manager.cpp
 msgid "Invalid project path, the path must exist!"
-msgstr ""
+msgstr "Caminho de projeto inválido, o caminho deve existir!"
 
 #: tools/editor/project_manager.cpp
 msgid "Invalid project path, engine.cfg must not exist."
-msgstr ""
+msgstr "Caminho de projeto inválido, engine.cfg não deve existir!"
 
 #: tools/editor/project_manager.cpp
 msgid "Invalid project path, engine.cfg must exist."
-msgstr ""
+msgstr "Caminho de projeto inválido, engine.cfg deve existir."
 
 #: tools/editor/project_manager.cpp
 msgid "Imported Project"
-msgstr ""
+msgstr "Projeto Importado"
 
 #: tools/editor/project_manager.cpp
 msgid "Invalid project path (changed anything?)."
-msgstr ""
+msgstr "Caminho de projeto inválido (mudou alguma coisa?)."
 
 #: tools/editor/project_manager.cpp
 msgid "Couldn't create engine.cfg in project path."
-msgstr ""
+msgstr "Não se pôde criar engine.cfg no caminho do projeto."
 
 #: tools/editor/project_manager.cpp
 msgid "Import Existing Project"
-msgstr ""
+msgstr "Importar Projeto Existente"
 
 #: tools/editor/project_manager.cpp
 msgid "Project Path (Must Exist):"
-msgstr ""
+msgstr "Caminho do Projeto (Deve Existir):"
 
 #: tools/editor/project_manager.cpp
 msgid "Project Name:"
-msgstr ""
+msgstr "Nome do Projeto:"
 
 #: tools/editor/project_manager.cpp
 msgid "Create New Project"
-msgstr ""
+msgstr "Criar Novo Projeto"
 
 #: tools/editor/project_manager.cpp
 msgid "Project Path:"
-msgstr ""
+msgstr "Caminho do Projeto:"
 
 #: tools/editor/project_manager.cpp
 msgid "Browse"
-msgstr ""
+msgstr "Navegar"
 
 #: tools/editor/project_manager.cpp
 msgid "New Game Project"
-msgstr ""
+msgstr "Novo Projeto de Jogo"
 
 #: tools/editor/project_manager.cpp
 msgid "That's a BINGO!"
-msgstr ""
+msgstr "É um BINGO!"
 
 #: tools/editor/project_manager.cpp
 msgid "Unnamed Project"
-msgstr ""
+msgstr "Projeto Sem Nome"
 
 #: tools/editor/project_manager.cpp
 msgid "Are you sure to open more than one projects?"
-msgstr ""
+msgstr "Tem certeza de que quer abrir mais de um projeto?"
 
 #: tools/editor/project_manager.cpp
 msgid "Are you sure to run more than one projects?"
-msgstr ""
+msgstr "Tem certeza de que quer rodar mais de um projeto?"
 
 #: tools/editor/project_manager.cpp
 msgid "Remove project from the list? (Folder contents will not be modified)"
-msgstr ""
+msgstr "Remover projeto da lista? (O conteúdo da pasta não será modificado)"
 
 #: tools/editor/project_manager.cpp
 msgid "Recent Projects:"
-msgstr ""
+msgstr "Projetos Recente:"
 
 #: tools/editor/project_manager.cpp
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: tools/editor/project_manager.cpp
 msgid "Run"
-msgstr ""
+msgstr "Rodar"
 
 #: tools/editor/project_manager.cpp
 msgid "Scan"
-msgstr ""
+msgstr "Escanear"
 
 #: tools/editor/project_manager.cpp
 msgid "New Project"
-msgstr ""
+msgstr "Novo Projeto"
 
 #: tools/editor/project_manager.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Sair"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "OK :("
-msgstr ""
+msgstr "OK :("
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "No parent to instance a child at."
-msgstr ""
+msgstr "Sem nó pai onde instanciar um filho."
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Error loading scene from %s"
-msgstr ""
+msgstr "Erro ao carregar cena de %s"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Error instancing scene from %s"
-msgstr ""
+msgstr "Erro ao instanciar cena de %s"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid ""
 "Cannot instance the scene '%s' because the current scene exists within one "
 "of its nodes."
 msgstr ""
+"Não se pode instanciar a cena \"%s\" porque a cena atual existe dentro de "
+"um de seus nós."
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Instance Scene(s)"
-msgstr ""
+msgstr "Instanciar Cena(s)"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "This operation can't be done on the tree root."
-msgstr ""
+msgstr "Esta operação não pode ser feita na raiz da árvore."
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Move Node In Parent"
-msgstr ""
+msgstr "Mover Nó no Pai"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Move Nodes In Parent"
-msgstr ""
+msgstr "Mover Nós no Pai"
 
 #: tools/editor/scene_tree_dock.cpp
 msgid "Duplicate Node(s)"
-msgstr ""
+msgstr "Duplicar Nó(s)"
