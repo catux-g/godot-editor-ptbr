@@ -2,298 +2,308 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Search Help"
-msgstr ""
+msgstr "Ajuda de pesquisa"
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Search the reference documentation."
-msgstr ""
+msgstr "Pesquise a documentação de referência."
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Go to previous edited document."
-msgstr ""
+msgstr "Ir para o anterior documento editado."
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Go to next edited document."
-msgstr ""
+msgstr "Ir para o próximo documento editado."
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Create Script"
-msgstr ""
+msgstr "Criar o Script"
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid ""
 "The following files are newer on disk.\n"
 "What action should be taken?:"
 msgstr ""
+"Os seguintes arquivos são mais recentes no disco.\n"
+"Ação que deve ser tomada?:"
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Reload"
-msgstr ""
+msgstr "Recarregar"
 
 #: tools/editor/plugins/script_editor_plugin.cpp
 msgid "Resave"
-msgstr ""
+msgstr "Salve novamente"
 
 #: tools/editor/plugins/style_box_editor_plugin.cpp
 msgid "StyleBox Preview:"
-msgstr ""
+msgstr "Pré-Visualização do StyleBox:"
 
 #: tools/editor/plugins/sample_editor_plugin.cpp
 msgid "Length:"
-msgstr ""
+msgstr "Duração:"
 
 #: tools/editor/plugins/sample_editor_plugin.cpp
 msgid "%d frames"
-msgstr ""
+msgstr "%d quadros"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Scalar Constant"
-msgstr ""
+msgstr "Alterar Constante Escalar"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Vec Constant"
-msgstr ""
+msgstr "Alterar Constante Vec"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change RGB Constant"
-msgstr ""
+msgstr "Alterar Constante RGB"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Scalar Operator"
-msgstr ""
+msgstr "Alterar Operador Escalar"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Vec Operator"
-msgstr ""
+msgstr "Alterar Operador Vec"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Vec Scalar Operator"
-msgstr ""
+msgstr "Alterar Operador Vec Escalar"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change RGB Operator"
-msgstr ""
+msgstr "Alterar Operador RGB"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Toggle Rot Only"
-msgstr ""
+msgstr "Alternar Rotação Somente"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Scalar Function"
-msgstr ""
+msgstr "Alterar Função Escalar"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Vec Function"
-msgstr ""
+msgstr "Alterar Função Vec"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Scalar Uniform"
-msgstr ""
+msgstr "Alterar Uniforme Escalar"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Vec Uniform"
-msgstr ""
+msgstr "Alterar Uniforme Vec"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change RGB Uniform"
-msgstr ""
+msgstr "Alterar Uniforme RGB"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Default Value"
-msgstr ""
+msgstr "Alterar Valor Padrão"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change XForm Uniform"
-msgstr ""
+msgstr "Alterar Uniforme XForm"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Texture Uniform"
-msgstr ""
+msgstr "Alterar Textura Uniforme"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Cubemap Uniform"
-msgstr ""
+msgstr "Alterar Cubemap Uniforme"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Comment"
-msgstr ""
+msgstr "Alterar Comentário"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Add/Remove to Color Ramp"
-msgstr ""
+msgstr "Adicionar/Remover para Rampa de Cores"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 #: tools/editor/plugins/color_ramp_editor_plugin.cpp
 msgid "Modify Color Ramp"
-msgstr ""
+msgstr "Modificar Rampa de Cores"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Add/Remove to Curve Map"
-msgstr ""
+msgstr "Adicionar/Remover para Curve Map"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Modify Curve Map"
-msgstr ""
+msgstr "Modificar Curve Map"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Change Input Name"
-msgstr ""
+msgstr "Alterar Nome de Entrada"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Connect Graph Nodes"
-msgstr ""
+msgstr "Conectar Nós Gráficos"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Disconnect Graph Nodes"
-msgstr ""
+msgstr "Desconectar Nós Gráficos"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Remove Shader Graph Node"
-msgstr ""
+msgstr "Remover Nó de Shader Gráfico"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Move Shader Graph Node"
-msgstr ""
+msgstr "Mover Nó de Shader Gráfico"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Duplicate Graph Node(s)"
-msgstr ""
+msgstr "Duplicar Nó(s) Gráfico(s)"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Delete Shader Graph Node(s)"
-msgstr ""
+msgstr "Deletar Nó(s) de Shader Gráfico(s)"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Error: Cyclic Connection Link"
-msgstr ""
+msgstr "ERRO: Link de Conexão Cíclica"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Error: Missing Input Connections"
-msgstr ""
+msgstr "ERRO: Conexões de Entrada Perdidas"
 
 #: tools/editor/plugins/shader_graph_editor_plugin.cpp
 msgid "Add Shader Graph Node"
-msgstr ""
+msgstr "Adicionar Nó de Shader Gráfico"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Create UV Map"
-msgstr ""
+msgstr "Criar Mapa UV"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Transform UV Map"
-msgstr ""
+msgstr "Transformar Mapa UV"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Polygon 2D UV Editor"
-msgstr ""
+msgstr "Editor UV de Polígonos 2D"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Move Point"
-msgstr ""
+msgstr "Mover Ponto"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Ctrl: Rotate"
-msgstr ""
+msgstr "Ctrl: Rotaciona"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Shift: Move All"
-msgstr ""
+msgstr "Shift: Mover Todos"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Shift+Ctrl: Scale"
-msgstr ""
+msgstr "Shift+Ctrl: Escala"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Move Polygon"
-msgstr ""
+msgstr "Mover Polígono"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Rotate Polygon"
-msgstr ""
+msgstr "Rotacionar Polígono"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Scale Polygon"
-msgstr ""
+msgstr "Escalonar Polígono"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Polygon->UV"
-msgstr ""
+msgstr "Polígono->UV"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "UV->Polygon"
-msgstr ""
+msgstr "UV->Polígono"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Clear UV"
-msgstr ""
+msgstr "Limpar UV"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Snap"
-msgstr ""
+msgstr "Snap"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Enable Snap"
-msgstr ""
+msgstr "Ativar Snap"
 
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid"
-msgstr ""
+msgstr "Grade"
 
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Set region_rect"
-msgstr ""
+msgstr "Definir region_rect"
 
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Sprite Region Editor"
-msgstr ""
+msgstr "Editor de Região do Sprite"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "ERROR: Couldn't load resource!"
-msgstr ""
+msgstr "ERRO: Não foi possível carregar recurso!"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Add Resource"
-msgstr ""
+msgstr "Adicionar Recurso"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Rename Resource"
-msgstr ""
+msgstr "Renomear Recurso"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Delete Resource"
-msgstr ""
+msgstr "Deletar Recurso"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Resource clipboard is empty!"
-msgstr ""
+msgstr "Recurso da área de transferência está vazia!"
 
 #: tools/editor/plugins/resource_preloader_editor_plugin.cpp
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Load Resource"
-msgstr ""
+msgstr "Carregar Recurso"
 
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "ERROR: Couldn't load frame resource!"
-msgstr ""
+msgstr "ERRO: Não foi possível carregar recurso de quadro!"
 
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add Frame"
-msgstr ""
+msgstr "Adicionar Quadro"
 
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Resource clipboard is empty or not a texture!"
-msgstr ""
+msgstr "Recurso da Área de transferência está vazio ou não é uma textura!"
 
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Paste Frame"
-msgstr ""
+msgstr "Colar Quadro"
 
 #: tools/editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add Empty"
-msgstr ""
+msgstr "Adicionar Vazio"
