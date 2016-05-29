@@ -20,7 +20,7 @@ msgid ""
 "derived node. Please only use it as a child of Area, StaticBody, RigidBody, "
 "KinematicBody, etc. to give them a shape."
 msgstr ""
-"CollisionShape apenas server para fornecer formas de colisão a um nó "
+"CollisionShape apenas serve para fornecer formas de colisão a um nó "
 "derivado de CollisionObject. Por favor, use-o apenas como filho de Area, "
 "StaticBody, RigidBody, KinematicBody, etc. para dá-los forma."
 
