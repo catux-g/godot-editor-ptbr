@@ -2,298 +2,306 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Anchor"
-msgstr ""
+msgstr "Âncora"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Insert Keys (Ins)"
-msgstr ""
+msgstr "Inserir Chaves (Ins)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Insert Key"
-msgstr ""
+msgstr "Inserir Chave"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Insert Key (Existing Tracks)"
-msgstr ""
+msgstr "Inserir Chave (Faixas Existentes)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Copy Pose"
-msgstr ""
+msgstr "Copiar Pose"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Clear Pose"
-msgstr ""
+msgstr "Limpar Pose"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Set a Value"
-msgstr ""
+msgstr "Defina um Valor"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap (Pixels):"
-msgstr ""
+msgstr "Snap (Pixels):"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Paint TileMap"
-msgstr ""
+msgstr "Pintar TileMap"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Erase TileMap"
-msgstr ""
+msgstr "Apagar TileMap"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Bucket"
-msgstr ""
+msgstr "Balde"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Pick Tile"
-msgstr ""
+msgstr "Pegar Tile"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Select"
-msgstr ""
+msgstr "Selecionar"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Erase Selection"
-msgstr ""
+msgstr "Apagar Seleção"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Transpose"
-msgstr ""
+msgstr "Transpor"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Mirror X (A)"
-msgstr ""
+msgstr "Espelhar X (A)"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Mirror Y (S)"
-msgstr ""
+msgstr "Espelhar Y (S)"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Rotate 0 degrees"
-msgstr ""
+msgstr "Rotacionar 0 degraus"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Rotate 90 degrees"
-msgstr ""
+msgstr "Rotacionar 90 degraus"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Rotate 180 degrees"
-msgstr ""
+msgstr "Rotacionar 180 degraus"
 
 #: tools/editor/plugins/tile_map_editor_plugin.cpp
 msgid "Rotate 270 degrees"
-msgstr ""
+msgstr "Rotacionar 270 degraus"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "New name:"
-msgstr ""
+msgstr "Novo nome:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Scale:"
-msgstr ""
+msgstr "Escala:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Fade In (s):"
-msgstr ""
+msgstr "Fade In (s):"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Fade Out (s):"
-msgstr ""
+msgstr "Fade Out (s):"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend"
-msgstr ""
+msgstr "Misturar"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Mix"
-msgstr ""
+msgstr "Misturar"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Auto Restart:"
-msgstr ""
+msgstr "Reinício Automático:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Restart (s):"
-msgstr ""
+msgstr "Reinício (s):"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Random Restart (s):"
-msgstr ""
+msgstr "Reinício Randômico:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Start!"
-msgstr ""
+msgstr "Iniciar!"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Amount:"
-msgstr ""
+msgstr "Quantidade:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend:"
-msgstr ""
+msgstr "Misturar:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend 0:"
-msgstr ""
+msgstr "Misturar 0:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend 1:"
-msgstr ""
+msgstr "Misturar 1:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "X-Fade Time (s):"
-msgstr ""
+msgstr "Vez(es) do X-Fade:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Current:"
-msgstr ""
+msgstr "Atual:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Add Input"
-msgstr ""
+msgstr "Adicionar Entrada"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Clear Auto-Advance"
-msgstr ""
+msgstr "Limpar Avanço Automático"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Set Auto-Advance"
-msgstr ""
+msgstr "Definir Avanço Automático"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Delete Input"
-msgstr ""
+msgstr "Deletar Entrada"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Rename"
-msgstr ""
+msgstr "Renomear"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Animation tree is valid."
-msgstr ""
+msgstr "Árvore de Animação é válida."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Animation tree is invalid."
-msgstr ""
+msgstr "Árvore de Animação é inválida."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Animation Node"
-msgstr ""
+msgstr "Nó de Animação"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "OneShot Node"
-msgstr ""
+msgstr "Disparar Nó"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Mix Node"
-msgstr ""
+msgstr "Misturar Nó"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend2 Node"
-msgstr ""
+msgstr "Nó Misturar2"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend3 Node"
-msgstr ""
+msgstr "Nó Misturar3"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Blend4 Node"
-msgstr ""
+msgstr "Nó Misturar4"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "TimeScale Node"
-msgstr ""
+msgstr "Nó Tempo de Escala"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "TimeSeek Node"
-msgstr ""
+msgstr "Nó Tempo de Procura"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Transition Node"
-msgstr ""
+msgstr "Nó de Transição"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Import Animations.."
-msgstr ""
+msgstr "Importar Animações.."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Edit Node Filters"
-msgstr ""
+msgstr "Editar Filtros de Nó"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Filters.."
-msgstr ""
+msgstr "Filtros.."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "No mesh source specified (and no MultiMesh set in node)."
-msgstr ""
+msgstr "Nenhuma malha de origem especificada (e nenhuma MultiMalha definida no nó)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "No mesh source specified (and MultiMesh contains no Mesh)."
-msgstr ""
+msgstr "Nenhuma malha de origem especificada (e MultiMalha contém nenhuma Malha)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (invalid path)."
-msgstr ""
+msgstr "Malha de origem é inválida (Caminho inválido)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (not a MeshInstance)."
-msgstr ""
+msgstr "Malha de origem é inválida (Não é uma MalhaInstância)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (contains no Mesh resource)."
-msgstr ""
+msgstr "Malha de origem é inválida (contém nenhum recurso de Malha)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "No surface source specified."
-msgstr ""
+msgstr "Nenhuma superfície de origem especificada."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (invalid path)."
-msgstr ""
+msgstr "Superfície de origem é inválida (Caminho inválido)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (no geometry)."
-msgstr ""
+msgstr "Superfície de origem é inválida (sem geometria)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (no faces)."
-msgstr ""
+msgstr "Superfície de origem é inválida (sem faces)."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Parent has no solid faces to populate."
-msgstr ""
+msgstr "Pai não tem faces sólidas para popular."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Couldn't map area."
-msgstr ""
+msgstr "Não foi possível mapear área."
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Select a Source Mesh:"
-msgstr ""
+msgstr "Selecione uma Malha de origem:"
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Select a Target Surface:"
-msgstr ""
+msgstr "Selecione uma Superfície Alvo:"
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Populate Surface"
-msgstr ""
+msgstr "Popular Superfície"
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Populate MultiMesh"
-msgstr ""
+msgstr "Popular Multimalha"
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Target Surface:"
-msgstr ""
+msgstr "Superfície Alvo:"
 
 #: tools/editor/plugins/multimesh_editor_plugin.cpp
 msgid "Source Mesh:"
-msgstr ""
+msgstr "Malha de Origem:"
