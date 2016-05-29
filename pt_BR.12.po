@@ -2,299 +2,309 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine editor\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Play selected animation from start. (Shift+D)"
-msgstr ""
+msgstr "Reproduzir animação selecionada do início. (Shift +D)"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Play selected animation from current pos. (D)"
-msgstr ""
+msgstr "Reproduzir animação selecionada da posição atual. (D)"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Animation position (in seconds)."
-msgstr ""
+msgstr "Posição da Animação (em segundos)."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Scale animation playback globally for the node."
-msgstr ""
+msgstr "Escalonar reprodução da animação globalmente para o nó."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Create new animation in player."
-msgstr ""
+msgstr "Criar nova animação no jogador."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Load an animation from disk."
-msgstr ""
+msgstr "Carregar uma animação do disco."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Save the current animation"
-msgstr ""
+msgstr "Salvar a animação atual"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Display list of animations in player."
-msgstr ""
+msgstr "Mostrar lista de animações no jogador."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Autoplay on Load"
-msgstr ""
+msgstr "Reproduzir automaticamente ao carregar."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Edit Target Blend Times"
-msgstr ""
+msgstr "Editar vezes de mistura do alvo"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Animation Tools"
-msgstr ""
+msgstr "Ferramentas de Animação"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Copy Animation"
-msgstr ""
+msgstr "Copiar Animação"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Create New Animation"
-msgstr ""
+msgstr "Criar Nova Animação"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Animation Name:"
-msgstr ""
+msgstr "Nome da Animação:"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Blend Times:"
-msgstr ""
+msgstr "Vezes Misturadas:"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Next (Auto Queue):"
-msgstr ""
+msgstr "Próximo (Entrar na fila automaticamente)"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp
 msgid "Cross-Animation Blend Times"
-msgstr ""
+msgstr "Vezes da Mistura de Animação Cruzada"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 msgid "Create Poly"
-msgstr ""
+msgstr "Criar polígono"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 msgid "Create Occluder Polygon"
-msgstr ""
+msgstr "Criar Polígono de Oclusão"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 #: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
 #: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Create a new polygon from scratch."
-msgstr ""
+msgstr "Criar um novo polígono do zero"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 #: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Edit existing polygon:"
-msgstr ""
+msgstr "Editar polígono existente:"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 #: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "LMB: Move Point."
-msgstr ""
+msgstr "BEM: Mover Ponto."
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 #: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Ctrl+LMB: Split Segment."
-msgstr ""
+msgstr "Ctrl+BEM: Dividir Segmento"
 
 #: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
 #: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "RMB: Erase Point."
-msgstr ""
+msgstr "DEM: Apagar Ponto."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Configure Snap"
-msgstr ""
+msgstr "Configurar o Snap"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Grid Offset:"
-msgstr ""
+msgstr "Deslocamento da grade:"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Grid Step:"
-msgstr ""
+msgstr "Passo de grade:"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Rotation Offset:"
-msgstr ""
+msgstr "Deslocamento de rotação:"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Rotation Step:"
-msgstr ""
+msgstr "Movimento de rotação"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Move Pivot"
-msgstr ""
+msgstr "Mover o pivô"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Move Action"
-msgstr ""
+msgstr "Mover Ação"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Edit IK Chain"
-msgstr ""
+msgstr "Editar Cadeia de IK"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Edit CanvasItem"
-msgstr ""
+msgstr "Editar CanvaItem"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Change Anchors"
-msgstr ""
+msgstr "Alterar Âncoras"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Zoom (%):"
-msgstr ""
+msgstr "Ampliar (%)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Paste Pose"
-msgstr ""
+msgstr "Colar Pose"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Select Mode (Q)"
-msgstr ""
+msgstr "Selecionar Modo (Q)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Drag: Rotate"
-msgstr ""
+msgstr "Arrastar: Rotacionar"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Alt+Drag: Move"
-msgstr ""
+msgstr "Alt+Arrastar: Mover"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Press 'v' to Change Pivot, 'Shift+v' to Drag Pivot (while moving)."
-msgstr ""
+msgstr "Aperte 'v' para Mudar Pivô, 'Shift+v' para Arrastar Pivô (enquanto movendo)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Alt+RMB: Depth list selection"
-msgstr ""
+msgstr "Alt+BDM: Lista de seleção de profundidade"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "Move Mode (W)"
-msgstr ""
+msgstr "Modo Mover (W)"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "Rotate Mode (E)"
-msgstr ""
+msgstr "Modo Rotacionar"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid ""
 "Show a list of all objects at the position clicked\n"
 "(same as Alt+RMB in select mode)."
 msgstr ""
+"Mostrar uma lista de todos os objetos na posição clicados\n"
+"(mesmo como Alt+BDM no Modo de seleção)."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Click to change object's rotation pivot."
-msgstr ""
+msgstr "Clique para mudar o pivô de rotação do objeto."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Pan Mode"
-msgstr ""
+msgstr "Modo Panorâmico"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Lock the selected object in place (can't be moved)."
-msgstr ""
+msgstr "Travar o objeto selecionado no local (não pode ser movido)."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Unlock the selected object (can be moved)."
-msgstr ""
+msgstr "Destravar o objeto selecionado (pode ser movido)."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Makes sure the object's children are not selectable."
-msgstr ""
+msgstr "Tenha certeza que o objeto filho não está selecionável."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Restores the object's children's ability to be selected."
-msgstr ""
+msgstr "Restaura a habilidade do filho do objeto ser selecionado."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "Use Snap"
-msgstr ""
+msgstr "Usar Snap"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/polygon_2d_editor_plugin.cpp
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Show Grid"
-msgstr ""
+msgstr "Mostrar Grade"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Rotation Snap"
-msgstr ""
+msgstr "Usar Snap de Rotação"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/sprite_region_editor_plugin.cpp
 msgid "Snap Relative"
-msgstr ""
+msgstr "Relativo Snap"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 #: tools/editor/plugins/spatial_editor_plugin.cpp
 msgid "Configure Snap.."
-msgstr ""
+msgstr "Configurar Snap.."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Pixel Snap"
-msgstr ""
+msgstr "Usar Snap de Pixel"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Expand to Parent"
-msgstr ""
+msgstr "Expandir para Pai"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Skeleton.."
-msgstr ""
+msgstr "Esqueleto.."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Make Bones"
-msgstr ""
+msgstr "Fazer Ossos"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Clear Bones"
-msgstr ""
+msgstr "Limpar Ossos"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Make IK Chain"
-msgstr ""
+msgstr "Fazer Cadeia de IK"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Clear IK Chain"
-msgstr ""
+msgstr "Limpar Cadeia de IK"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "View"
-msgstr ""
+msgstr "Visualizar"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Zoom In"
-msgstr ""
+msgstr "Ampliar Mais"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Zoom Out"
-msgstr ""
+msgstr "Ampliar Menos"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Zoom Reset"
-msgstr ""
+msgstr "Restaurar Ampliação"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Zoom Set.."
-msgstr ""
+msgstr "Setar Ampliação"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Center Selection"
-msgstr ""
+msgstr "Seleção Central"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Frame Selection"
-msgstr ""
+msgstr "Seleção de Quadros"
